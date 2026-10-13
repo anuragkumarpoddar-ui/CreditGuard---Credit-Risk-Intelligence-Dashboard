@@ -1,0 +1,1001 @@
+Transaction ID,Customer Name,Merchant Name,Transaction Date,Transaction Amount (INR),Fraud Risk,Fraud Type,State,Card Type,Bank,IsFraud,Fraud Score,Transaction Category,Merchant Location
+17797619,Pihu Manne,Uber,10-11-2024,11673,Medium,Card Not Present,Telangana,Rupay,ICICI Bank,0,57,Transportation,Bangalore
+50040671,Hiran Vaidya,Zomato,20-05-2024,16594,Medium,Phishing,Maharashtra,Amex,SBI,0,10,Groceries,Bangalore
+88177651,Shalv Vasa,Myntra,28-05-2024,23347,Medium,Card Skimming,Uttar Pradesh,Visa,HDFC Bank,0,55,Transportation,Ahmedabad
+24228305,Taran Shanker,Lifestyle,09-01-2024,20753,Low,Card Skimming,Kerala,Visa,Federal Bank,0,30,E-commerce,Lucknow
+87307869,Shanaya Kara,Tata Cliq,27-07-2024,6432,Low,Card Skimming,Delhi,Amex,SBI,0,86,Electronics,Hyderabad
+25042953,Eshani Batta,Lifestyle,20-12-2023,4586,Critical,Card Skimming,West Bengal,Amex,Andhra Bank,0,80,E-commerce,Hyderabad
+13457605,Advik Jayaraman,Flipkart,26-12-2023,2202,Medium,Account Takeover,Tamil Nadu,Amex,Bank of Baroda,0,95,Apparel,Mumbai
+95389887,Drishya Bhandari,Lifestyle,05-01-2024,17709,High,Card Not Present,Karnataka,Visa,HDFC Bank,0,56,E-commerce,Jaipur
+66937046,Mannat Kothari,Zomato,09-11-2024,1613,Low,Phishing,Uttar Pradesh,Rupay,HDFC Bank,1,92,Food Delivery,Bangalore
+39375009,Aradhya Khosla,Lifestyle,22-10-2024,21623,Low,Card Skimming,West Bengal,Visa,Bank of Baroda,0,66,Apparel,Delhi
+26313417,Lakshay Ravi,Lifestyle,08-10-2024,7180,Critical,Card Skimming,Telangana,Visa,Yes Bank,0,90,Apparel,Mumbai
+53768437,Tushar Kara,Amazon India,16-11-2024,1562,Low,Identity Theft,Kerala,Mastercard,Bank of Baroda,0,46,E-commerce,Kolkata
+49564502,Shamik Sharaf,Big Bazaar,05-12-2024,1521,Medium,Card Skimming,Karnataka,Visa,HDFC Bank,1,25,Food Delivery,Ahmedabad
+46575685,Shray Dutt,Reliance Digital,26-01-2024,18563,Low,Account Takeover,Delhi,Rupay,ICICI Bank,0,19,Transportation,Bangalore
+85972172,Prisha Mannan,Reliance Digital,29-05-2024,4486,High,Card Skimming,Maharashtra,Visa,Kotak Bank,1,43,E-commerce,Ahmedabad
+74522267,Zeeshan Lalla,Big Bazaar,21-08-2024,11710,Medium,Account Takeover,Gujarat,Amex,Yes Bank,0,76,Food Delivery,Delhi
+26829430,Tarini Bedi,Tata Cliq,21-09-2024,24725,Low,Card Not Present,Karnataka,Amex,Kotak Bank,0,85,Transportation,Ahmedabad
+76910814,Nehmat Upadhyay,Tata Cliq,14-12-2024,3192,Medium,Identity Theft,Kerala,Rupay,Bank of Baroda,1,31,Transportation,Lucknow
+37342915,Rohan Sood,Uber,13-06-2024,950,Low,Card Skimming,Uttar Pradesh,Rupay,Axis Bank,0,88,Electronics,Jaipur
+70649904,Jivika Singhal,Amazon India,25-12-2023,7021,Low,Phishing,Maharashtra,Amex,SBI,1,42,Electronics,Chennai
+80346732,Adah Chaudhry,Reliance Digital,23-08-2024,7932,High,Card Skimming,Maharashtra,Mastercard,Bank of Baroda,1,39,Electronics,Kochi
+39217230,Saksham Rastogi,Uber,15-10-2024,7249,Low,Phishing,Kerala,Visa,SBI,0,41,Apparel,Delhi
+29894081,Veer Sridhar,Reliance Digital,08-10-2024,12194,High,Card Skimming,Karnataka,Visa,ICICI Bank,1,37,Electronics,Kochi
+41533703,Kanav Chaudhary,Zomato,10-07-2024,24114,Medium,Card Not Present,Maharashtra,Amex,SBI,0,67,Food Delivery,Mumbai
+50613866,Rasha Reddy,Big Bazaar,10-09-2024,2983,Critical,Card Skimming,Karnataka,Mastercard,Bank of Baroda,1,85,Electronics,Lucknow
+74550146,Tiya Bir,Amazon India,05-01-2024,9673,Low,Account Takeover,Gujarat,Visa,Bank of Baroda,0,91,Food Delivery,Chennai
+99502840,Urvi Ghose,Lifestyle,25-07-2024,8158,High,Identity Theft,Karnataka,Visa,Yes Bank,0,24,E-commerce,Lucknow
+27654485,Yuvaan Sidhu,Lifestyle,19-07-2024,2375,High,Card Not Present,Maharashtra,Amex,HDFC Bank,0,83,Transportation,Lucknow
+73074171,Ojas Shah,Zomato,31-07-2024,10950,Medium,Identity Theft,Gujarat,Visa,HDFC Bank,0,81,Apparel,Delhi
+93774582,Tara Johal,Uber,11-10-2024,6527,Low,Identity Theft,Delhi,Mastercard,Federal Bank,0,90,Food Delivery,Mumbai
+46788591,Diya Bajaj,Lifestyle,28-04-2024,9549,Medium,Card Skimming,Kerala,Mastercard,HDFC Bank,0,88,Groceries,Hyderabad
+27824277,Faiyaz Cheema,Swiggy,23-10-2024,5461,Medium,Card Not Present,Delhi,Rupay,Axis Bank,0,48,Transportation,Mumbai
+16938100,Aradhya Dhillon,Uber,11-01-2024,24489,Low,Identity Theft,Rajasthan,Rupay,Federal Bank,1,29,Transportation,Bangalore
+66943130,Biju Sood,Lifestyle,02-10-2024,24680,Low,Identity Theft,Maharashtra,Mastercard,SBI,0,80,Food Delivery,Delhi
+68375255,Alia Dugar,Myntra,15-02-2024,24578,Low,Card Not Present,Rajasthan,Visa,Federal Bank,0,35,E-commerce,Delhi
+50941021,Oorja Borah,Amazon India,12-12-2024,11195,Medium,Account Takeover,Tamil Nadu,Mastercard,Andhra Bank,1,67,Groceries,Ahmedabad
+60606372,Kanav Choudhary,Flipkart,27-07-2024,1714,Medium,Account Takeover,Tamil Nadu,Visa,Andhra Bank,1,71,Electronics,Hyderabad
+32201823,Zaina Hegde,Flipkart,14-11-2024,14207,Low,Identity Theft,Telangana,Mastercard,Federal Bank,0,21,Transportation,Lucknow
+53667574,Yakshit Handa,Zomato,08-04-2024,9803,Low,Card Not Present,Tamil Nadu,Mastercard,Bank of Baroda,0,90,Electronics,Chennai
+80084680,Nehmat Sangha,Amazon India,03-12-2024,17897,Medium,Account Takeover,Delhi,Amex,Yes Bank,0,49,E-commerce,Chennai
+18010953,Samarth Wason,Reliance Digital,19-01-2024,22366,Medium,Card Skimming,Tamil Nadu,Mastercard,Yes Bank,1,45,Groceries,Kolkata
+39335891,Umang Soman,Flipkart,15-08-2024,4064,Medium,Phishing,Maharashtra,Rupay,Federal Bank,0,30,Groceries,Ahmedabad
+83700642,Kartik Bose,Uber,02-08-2024,10336,Critical,Card Not Present,West Bengal,Amex,Kotak Bank,0,29,Electronics,Kolkata
+54662150,Prerak Zacharia,Swiggy,15-07-2024,1569,Medium,Identity Theft,Gujarat,Rupay,ICICI Bank,0,70,Transportation,Hyderabad
+45082504,Hiran Upadhyay,Tata Cliq,13-02-2024,23775,Medium,Identity Theft,Karnataka,Rupay,Yes Bank,0,64,Groceries,Mumbai
+54121424,Mamooty Vyas,Zomato,05-09-2024,6711,High,Identity Theft,Telangana,Rupay,Axis Bank,0,80,Groceries,Kochi
+72144690,Samar Tandon,Amazon India,26-01-2024,16974,Low,Card Skimming,Delhi,Amex,Axis Bank,0,50,Food Delivery,Chennai
+52166999,Pari Behl,Lifestyle,08-07-2024,14653,High,Phishing,Maharashtra,Mastercard,SBI,0,45,Transportation,Chennai
+50032908,Yakshit Saran,Lifestyle,30-12-2023,9248,Medium,Card Not Present,Tamil Nadu,Visa,Federal Bank,0,32,Electronics,Kochi
+81281786,Drishya Ganesan,Zomato,14-04-2024,23122,Low,Card Skimming,Tamil Nadu,Visa,Federal Bank,0,94,E-commerce,Delhi
+83454657,Misha Kashyap,Flipkart,29-10-2024,842,Medium,Card Skimming,Tamil Nadu,Mastercard,Bank of Baroda,0,26,Electronics,Hyderabad
+17097793,Ranbir Shankar,Zomato,13-11-2024,5546,High,Identity Theft,Telangana,Rupay,Axis Bank,0,91,Apparel,Chennai
+34894049,Onkar Deol,Lifestyle,02-01-2024,16758,Low,Card Not Present,Delhi,Mastercard,HDFC Bank,0,50,E-commerce,Delhi
+84776733,Nakul Upadhyay,Big Bazaar,16-09-2024,4351,High,Card Not Present,Gujarat,Rupay,Yes Bank,1,70,Apparel,Jaipur
+92240744,Tanya Shanker,Tata Cliq,05-06-2024,16904,High,Card Skimming,Rajasthan,Mastercard,Andhra Bank,1,10,Electronics,Chennai
+67571367,Priyansh Sangha,Lifestyle,22-03-2024,19397,Low,Card Skimming,Kerala,Mastercard,Federal Bank,1,13,Transportation,Lucknow
+53817550,Aniruddh Sem,Tata Cliq,25-05-2024,16870,Critical,Identity Theft,Uttar Pradesh,Rupay,Yes Bank,0,39,E-commerce,Hyderabad
+36057699,Oorja Dhillon,Uber,29-06-2024,4014,Low,Card Not Present,Tamil Nadu,Visa,Kotak Bank,0,90,Apparel,Jaipur
+90448570,Myra Baral,Swiggy,05-08-2024,20415,Low,Account Takeover,Uttar Pradesh,Visa,Federal Bank,0,11,Electronics,Jaipur
+39560366,Raghav Goswami,Lifestyle,16-12-2023,14479,Medium,Card Not Present,Rajasthan,Mastercard,SBI,0,68,Apparel,Delhi
+45163069,Jivin Shah,Lifestyle,27-07-2024,1603,Medium,Card Skimming,Rajasthan,Mastercard,Yes Bank,0,17,Transportation,Kolkata
+24538975,Indranil Dar,Uber,18-06-2024,11770,Medium,Card Not Present,Kerala,Amex,Andhra Bank,0,32,E-commerce,Kolkata
+65571276,Siya Mand,Flipkart,27-07-2024,3431,High,Card Skimming,Delhi,Mastercard,Federal Bank,0,85,Apparel,Chennai
+58333520,Hridaan Lanka,Uber,30-01-2024,9612,Medium,Phishing,Maharashtra,Visa,Bank of Baroda,0,53,E-commerce,Ahmedabad
+22921041,Devansh Dutta,Myntra,12-09-2024,23243,Low,Card Skimming,Rajasthan,Visa,SBI,0,65,Electronics,Kochi
+66957487,Prisha Sani,Zomato,11-10-2024,23671,Medium,Identity Theft,Uttar Pradesh,Amex,Andhra Bank,0,79,Transportation,Jaipur
+50449721,Anika Kaur,Amazon India,16-03-2024,5188,Medium,Identity Theft,Kerala,Amex,Yes Bank,1,14,Electronics,Delhi
+75029599,Hrishita Mangal,Lifestyle,06-11-2024,11728,Low,Account Takeover,West Bengal,Mastercard,ICICI Bank,0,42,E-commerce,Lucknow
+90805536,Urvi Gole,Flipkart,20-05-2024,1056,Low,Phishing,Delhi,Rupay,Kotak Bank,0,36,Transportation,Ahmedabad
+84143515,Neysa Bir,Swiggy,17-11-2024,6783,Low,Card Not Present,Uttar Pradesh,Rupay,Andhra Bank,0,83,Electronics,Kolkata
+81421351,Aaina Kanda,Tata Cliq,22-08-2024,19964,Low,Account Takeover,Gujarat,Rupay,ICICI Bank,0,11,Apparel,Bangalore
+48347365,Mannat Krishnamurthy,Tata Cliq,07-03-2024,7131,High,Account Takeover,Gujarat,Rupay,SBI,0,63,Apparel,Delhi
+32663828,Jivin Tripathi,Reliance Digital,12-10-2024,7525,Low,Card Skimming,Uttar Pradesh,Amex,HDFC Bank,0,48,Transportation,Ahmedabad
+80937684,Samaira Sahni,Amazon India,11-01-2024,16351,Low,Identity Theft,Uttar Pradesh,Rupay,Yes Bank,0,94,Transportation,Mumbai
+87301985,Kimaya Buch,Big Bazaar,27-04-2024,21512,Low,Card Skimming,Kerala,Rupay,HDFC Bank,0,35,Apparel,Lucknow
+72182629,Samaira Goswami,Big Bazaar,19-02-2024,20170,Low,Account Takeover,Maharashtra,Rupay,HDFC Bank,0,39,Apparel,Jaipur
+23733893,Samaira Bansal,Flipkart,30-07-2024,11347,Low,Card Not Present,Telangana,Rupay,Axis Bank,0,16,Transportation,Hyderabad
+21412415,Riya Rajagopalan,Reliance Digital,21-10-2024,21657,Low,Account Takeover,Uttar Pradesh,Rupay,Axis Bank,0,14,Apparel,Bangalore
+42755409,Alia Sani,Reliance Digital,18-05-2024,24075,Low,Identity Theft,Telangana,Mastercard,Yes Bank,0,19,Transportation,Bangalore
+36099694,Divij Chatterjee,Flipkart,18-06-2024,14154,Critical,Account Takeover,Maharashtra,Mastercard,Yes Bank,0,81,Electronics,Lucknow
+34550377,Kartik Khatri,Uber,23-05-2024,23336,Medium,Card Skimming,West Bengal,Rupay,Axis Bank,0,54,Apparel,Delhi
+13995329,Mohanlal Vyas,Zomato,07-04-2024,3837,Medium,Account Takeover,Telangana,Mastercard,Andhra Bank,0,69,Apparel,Lucknow
+22639242,Pari Bath,Lifestyle,08-09-2024,18705,Low,Card Not Present,Maharashtra,Rupay,Federal Bank,1,58,Food Delivery,Chennai
+24287784,Ranbir Buch,Zomato,29-12-2023,22715,Medium,Phishing,Delhi,Rupay,Kotak Bank,0,75,E-commerce,Mumbai
+38716212,Aniruddh Choudhury,Myntra,23-09-2024,2094,Critical,Account Takeover,Gujarat,Visa,Federal Bank,1,73,E-commerce,Kolkata
+50152639,Divij Venkatesh,Tata Cliq,29-12-2023,24973,Low,Card Not Present,Telangana,Mastercard,Axis Bank,0,46,Electronics,Bangalore
+10560987,Priyansh Sandal,Flipkart,25-06-2024,19521,High,Card Skimming,Kerala,Visa,Axis Bank,1,38,Transportation,Ahmedabad
+62563619,Amani Tak,Lifestyle,06-08-2024,832,Medium,Card Not Present,Kerala,Rupay,SBI,0,46,Electronics,Bangalore
+40409910,Dishani Acharya,Myntra,31-03-2024,1695,Low,Card Not Present,Delhi,Visa,HDFC Bank,1,55,E-commerce,Jaipur
+10117276,Vivaan Agrawal,Zomato,06-11-2024,6908,Low,Card Not Present,West Bengal,Amex,Andhra Bank,0,38,Food Delivery,Kolkata
+75147301,Anvi Srinivasan,Lifestyle,02-11-2024,9688,High,Phishing,Delhi,Amex,Andhra Bank,0,18,E-commerce,Ahmedabad
+53631628,Biju Chopra,Tata Cliq,02-04-2024,20610,Medium,Card Skimming,Maharashtra,Mastercard,ICICI Bank,0,45,Apparel,Ahmedabad
+95200804,Saira Ganguly,Zomato,01-07-2024,2790,Medium,Card Not Present,Kerala,Rupay,HDFC Bank,0,61,Food Delivery,Delhi
+89200981,Navya Randhawa,Tata Cliq,08-12-2024,2861,Critical,Phishing,Gujarat,Mastercard,SBI,0,25,Apparel,Bangalore
+15784540,Ritvik Jha,Swiggy,10-02-2024,3776,Low,Card Skimming,Uttar Pradesh,Amex,Bank of Baroda,1,69,Electronics,Kolkata
+65154221,Rohan Devi,Amazon India,06-01-2024,2760,Low,Card Skimming,Kerala,Visa,ICICI Bank,0,39,Apparel,Bangalore
+87824397,Mohanlal Bhat,Swiggy,12-06-2024,18868,Low,Account Takeover,Tamil Nadu,Amex,Kotak Bank,0,18,Groceries,Delhi
+21065610,Prerak Shan,Uber,08-06-2024,7764,Critical,Identity Theft,Uttar Pradesh,Mastercard,Andhra Bank,0,28,Apparel,Hyderabad
+23921117,Adah Vyas,Flipkart,06-01-2024,18020,Low,Card Not Present,Kerala,Mastercard,Yes Bank,0,80,Electronics,Bangalore
+22421404,Gokul Mani,Lifestyle,03-09-2024,4965,Medium,Card Skimming,Karnataka,Rupay,Federal Bank,1,22,Electronics,Ahmedabad
+84552344,Lakshay Loyal,Big Bazaar,10-04-2024,13733,Critical,Card Not Present,Telangana,Rupay,Federal Bank,1,78,Apparel,Mumbai
+78149926,Keya Chanda,Reliance Digital,13-03-2024,20336,High,Card Not Present,Rajasthan,Rupay,Bank of Baroda,0,19,Apparel,Jaipur
+61148006,Tanya Bansal,Amazon India,09-06-2024,16906,Critical,Phishing,Uttar Pradesh,Amex,Yes Bank,0,33,Apparel,Jaipur
+34034948,Indranil Sura,Reliance Digital,11-01-2024,8161,Medium,Account Takeover,Karnataka,Amex,SBI,0,61,Transportation,Chennai
+62554708,Mannat Mandal,Lifestyle,22-08-2024,22728,Critical,Identity Theft,Kerala,Amex,SBI,0,20,Transportation,Bangalore
+47813903,Sumer Lall,Flipkart,22-10-2024,10680,High,Account Takeover,Uttar Pradesh,Amex,Andhra Bank,0,15,Electronics,Hyderabad
+58961246,Armaan Sha,Reliance Digital,26-10-2024,20904,Low,Phishing,Karnataka,Visa,Kotak Bank,0,90,Food Delivery,Kochi
+42445507,Vardaniya Lad,Reliance Digital,08-02-2024,1295,High,Card Not Present,Uttar Pradesh,Amex,Yes Bank,1,80,Electronics,Lucknow
+69187765,Onkar Bora,Big Bazaar,16-04-2024,23512,Low,Account Takeover,West Bengal,Rupay,Axis Bank,0,26,Groceries,Kochi
+99192536,Fateh Wali,Lifestyle,28-07-2024,24736,Medium,Card Not Present,Uttar Pradesh,Amex,Yes Bank,1,56,E-commerce,Kolkata
+10149344,Saira Dhillon,Zomato,11-07-2024,5543,Low,Identity Theft,Gujarat,Rupay,HDFC Bank,0,72,Transportation,Chennai
+82127371,Anay Dara,Amazon India,01-10-2024,13102,Low,Phishing,Delhi,Mastercard,Federal Bank,1,95,Groceries,Bangalore
+74082692,Sana Manne,Lifestyle,09-05-2024,11335,Critical,Card Skimming,Maharashtra,Rupay,Axis Bank,0,28,Transportation,Kochi
+93730832,Yuvraj  Suri,Tata Cliq,13-10-2024,20131,Low,Phishing,Karnataka,Amex,Federal Bank,1,75,E-commerce,Hyderabad
+27315999,Aarush Chaudhary,Reliance Digital,17-08-2024,12332,Low,Account Takeover,West Bengal,Rupay,ICICI Bank,0,45,E-commerce,Kochi
+50880858,Rasha Uppal,Reliance Digital,02-10-2024,14191,High,Card Skimming,Maharashtra,Rupay,Axis Bank,0,67,Electronics,Bangalore
+91232868,Jivika Bhatia,Zomato,03-12-2024,8956,High,Identity Theft,Maharashtra,Mastercard,Axis Bank,0,30,Electronics,Kolkata
+37845729,Eva Maharaj,Reliance Digital,17-04-2024,17448,Low,Card Skimming,Rajasthan,Visa,Axis Bank,1,95,Apparel,Chennai
+64308049,Zoya Borra,Amazon India,01-09-2024,10110,Medium,Card Skimming,Tamil Nadu,Mastercard,Kotak Bank,0,63,Food Delivery,Ahmedabad
+37400867,Ira Mander,Lifestyle,05-08-2024,1711,Low,Phishing,Uttar Pradesh,Mastercard,Kotak Bank,0,19,Groceries,Kolkata
+87852293,Aniruddh Chander,Flipkart,02-05-2024,9742,Low,Identity Theft,Tamil Nadu,Rupay,Yes Bank,0,31,Food Delivery,Jaipur
+18250402,Devansh Rattan,Zomato,07-04-2024,13965,Low,Identity Theft,Karnataka,Mastercard,Kotak Bank,0,71,E-commerce,Kochi
+85509756,Aradhya Bahri,Uber,07-10-2024,9632,Medium,Identity Theft,Kerala,Amex,Yes Bank,0,44,Transportation,Hyderabad
+21329759,Aradhya Saha,Lifestyle,16-02-2024,10960,Low,Card Skimming,Uttar Pradesh,Amex,HDFC Bank,1,87,Apparel,Ahmedabad
+10260467,Manikya Halder,Big Bazaar,28-11-2024,22184,Low,Identity Theft,Karnataka,Amex,Kotak Bank,1,39,Groceries,Bangalore
+33505820,Zara Chopra,Reliance Digital,30-04-2024,24174,High,Account Takeover,Karnataka,Amex,Kotak Bank,0,34,Transportation,Kochi
+26209976,Mishti Tripathi,Amazon India,04-02-2024,7917,Critical,Identity Theft,Delhi,Amex,ICICI Bank,0,55,Apparel,Chennai
+76975447,Aaryahi Vaidya,Amazon India,01-05-2024,10563,Low,Account Takeover,Rajasthan,Visa,Kotak Bank,0,39,Food Delivery,Hyderabad
+64841897,Lagan Grover,Big Bazaar,04-05-2024,1654,Low,Identity Theft,Telangana,Visa,Yes Bank,0,17,Apparel,Hyderabad
+31962281,Prisha Warrior,Uber,03-03-2024,24837,Low,Card Skimming,Rajasthan,Mastercard,SBI,0,13,Transportation,Bangalore
+70845514,Ela Gara,Big Bazaar,14-01-2024,17654,Medium,Card Skimming,West Bengal,Amex,Axis Bank,0,49,Electronics,Chennai
+15820659,Siya Khatri,Uber,06-06-2024,12378,Medium,Identity Theft,Rajasthan,Amex,Yes Bank,1,81,Groceries,Lucknow
+28323079,Badal Ranganathan,Amazon India,24-12-2023,13552,Medium,Card Not Present,Karnataka,Rupay,Federal Bank,1,21,Apparel,Delhi
+28074472,Manikya Balasubramanian,Tata Cliq,18-05-2024,19447,High,Identity Theft,Maharashtra,Mastercard,Kotak Bank,0,60,Groceries,Jaipur
+67323481,Aaina Borra,Zomato,18-06-2024,7856,Low,Card Skimming,Uttar Pradesh,Mastercard,SBI,0,77,Electronics,Chennai
+31110526,Prerak Tandon,Big Bazaar,09-02-2024,13146,Low,Card Not Present,Uttar Pradesh,Mastercard,ICICI Bank,1,28,Transportation,Ahmedabad
+49552851,Anaya Krishna,Flipkart,29-07-2024,15039,Low,Phishing,Kerala,Rupay,Yes Bank,0,46,E-commerce,Jaipur
+52543004,Kashvi Loyal,Big Bazaar,24-09-2024,10725,Low,Card Skimming,Uttar Pradesh,Rupay,Bank of Baroda,0,37,Transportation,Hyderabad
+85124381,Saanvi Sem,Uber,30-10-2024,3216,Low,Phishing,Tamil Nadu,Rupay,Bank of Baroda,0,77,Transportation,Bangalore
+42494131,Vanya Hayre,Uber,02-04-2024,14502,Medium,Card Not Present,Karnataka,Mastercard,Bank of Baroda,0,59,Electronics,Hyderabad
+47972186,Miraya Thaman,Swiggy,25-11-2024,4168,Critical,Card Not Present,Rajasthan,Visa,ICICI Bank,0,39,Transportation,Chennai
+78953912,Ahana  Wagle,Uber,13-04-2024,23256,High,Account Takeover,Uttar Pradesh,Amex,Bank of Baroda,0,29,Transportation,Delhi
+10869922,Jayesh Toor,Lifestyle,08-08-2024,22616,Low,Account Takeover,Delhi,Mastercard,HDFC Bank,0,67,Transportation,Mumbai
+12113217,Jayesh Balan,Zomato,12-11-2024,23656,Medium,Card Not Present,West Bengal,Visa,Federal Bank,0,45,Transportation,Chennai
+39463165,Sara Master,Myntra,27-07-2024,11634,Medium,Card Skimming,Gujarat,Visa,Federal Bank,0,37,Groceries,Delhi
+10510765,Siya Varkey,Amazon India,21-04-2024,4153,High,Account Takeover,Telangana,Amex,Axis Bank,0,19,Groceries,Chennai
+63180732,Hiran Ghosh,Lifestyle,08-08-2024,14305,Low,Card Skimming,Telangana,Visa,Axis Bank,0,52,Transportation,Hyderabad
+37948619,Shlok Chaudhuri,Flipkart,19-12-2023,6632,High,Identity Theft,Tamil Nadu,Visa,Federal Bank,1,11,Transportation,Mumbai
+67851025,Aaryahi Deo,Flipkart,10-03-2024,1017,High,Card Skimming,Telangana,Amex,Kotak Bank,1,70,Food Delivery,Bangalore
+19485119,Saanvi Chakraborty,Swiggy,08-12-2024,18342,Critical,Card Skimming,Rajasthan,Visa,Federal Bank,1,82,E-commerce,Mumbai
+78596115,Alisha Das,Big Bazaar,15-03-2024,4089,Low,Identity Theft,Maharashtra,Rupay,Yes Bank,1,95,E-commerce,Chennai
+97579806,Divit Bains,Myntra,25-03-2024,4161,Low,Card Skimming,Maharashtra,Mastercard,Kotak Bank,0,33,Transportation,Delhi
+73506109,Adah Konda,Zomato,05-04-2024,5594,High,Card Skimming,Rajasthan,Visa,ICICI Bank,0,55,Groceries,Ahmedabad
+13543144,Alia Rana,Swiggy,19-05-2024,7364,Low,Card Skimming,Tamil Nadu,Visa,HDFC Bank,0,88,Food Delivery,Chennai
+79487668,Aniruddh Gala,Uber,02-06-2024,19463,High,Identity Theft,Delhi,Visa,Andhra Bank,0,28,Food Delivery,Kochi
+27833354,Anvi Kakar,Zomato,01-02-2024,22622,Critical,Identity Theft,Gujarat,Amex,SBI,1,19,Apparel,Ahmedabad
+61339463,Zain Grover,Lifestyle,09-09-2024,2026,Medium,Card Skimming,Telangana,Amex,Federal Bank,0,64,Groceries,Lucknow
+72726544,Samar Brahmbhatt,Flipkart,19-05-2024,6900,High,Phishing,West Bengal,Rupay,Kotak Bank,0,91,Apparel,Delhi
+33650131,Bhavin Sule,Lifestyle,23-01-2024,1239,Low,Card Skimming,Tamil Nadu,Mastercard,Federal Bank,0,42,Electronics,Jaipur
+16505245,Sumer Bala,Flipkart,11-10-2024,1166,High,Card Not Present,Gujarat,Amex,Andhra Bank,1,74,Food Delivery,Ahmedabad
+51331760,Heer Soni,Amazon India,03-12-2024,13248,Low,Account Takeover,Karnataka,Visa,Yes Bank,0,68,E-commerce,Ahmedabad
+62791884,Jivin Hayer,Reliance Digital,03-03-2024,795,High,Phishing,Tamil Nadu,Amex,Bank of Baroda,0,95,Apparel,Jaipur
+17071283,Samaira Hayre,Tata Cliq,11-02-2024,21466,Low,Card Not Present,Uttar Pradesh,Amex,Axis Bank,0,53,Electronics,Lucknow
+57808916,Hunar Devan,Amazon India,18-01-2024,2963,Medium,Card Skimming,Maharashtra,Rupay,SBI,1,26,E-commerce,Hyderabad
+72938283,Devansh Mani,Reliance Digital,05-11-2024,8416,Low,Phishing,Gujarat,Visa,HDFC Bank,0,69,Transportation,Kochi
+92838292,Indranil Kara,Tata Cliq,22-02-2024,5973,High,Card Not Present,Tamil Nadu,Mastercard,Federal Bank,0,74,E-commerce,Lucknow
+49919079,Jhanvi Solanki,Zomato,31-05-2024,10815,Medium,Card Not Present,Rajasthan,Rupay,Federal Bank,0,69,Food Delivery,Delhi
+51546530,Charvi Kaur,Zomato,10-12-2024,15064,High,Account Takeover,Tamil Nadu,Amex,Yes Bank,1,81,Transportation,Kolkata
+29629444,Anya Shere,Flipkart,29-09-2024,801,Low,Card Not Present,Maharashtra,Amex,Andhra Bank,1,42,Food Delivery,Ahmedabad
+79096625,Ahana  Shroff,Myntra,08-07-2024,17208,Low,Card Not Present,Karnataka,Rupay,Federal Bank,0,63,Groceries,Lucknow
+36102806,Nehmat Mall,Big Bazaar,21-11-2024,20075,Low,Card Not Present,Maharashtra,Mastercard,Axis Bank,0,40,Electronics,Kolkata
+54066013,Inaaya  Sampath,Zomato,08-07-2024,6438,Low,Card Skimming,Maharashtra,Rupay,SBI,0,89,Electronics,Jaipur
+57860400,Riya Dash,Uber,27-11-2024,5031,Medium,Card Not Present,Rajasthan,Rupay,HDFC Bank,1,10,Electronics,Jaipur
+70040790,Tiya Viswanathan,Myntra,19-09-2024,252,Medium,Card Not Present,Gujarat,Mastercard,SBI,1,53,E-commerce,Bangalore
+21982567,Nehmat Kar,Lifestyle,19-12-2023,14702,Low,Card Skimming,Telangana,Mastercard,Kotak Bank,0,88,Food Delivery,Jaipur
+13291091,Dhanush Borde,Swiggy,07-10-2024,8567,Low,Identity Theft,Karnataka,Mastercard,Bank of Baroda,0,84,Transportation,Kochi
+92630416,Inaaya  Kant,Lifestyle,22-12-2023,18546,Low,Card Not Present,Tamil Nadu,Mastercard,Axis Bank,0,20,E-commerce,Ahmedabad
+85429387,Nitya Bera,Big Bazaar,14-12-2024,5015,High,Card Not Present,Kerala,Visa,HDFC Bank,1,26,Electronics,Mumbai
+20976963,Shamik Bose,Swiggy,23-02-2024,13352,High,Account Takeover,Karnataka,Rupay,Federal Bank,0,83,Apparel,Lucknow
+15961665,Aniruddh Reddy,Uber,19-12-2023,14020,Medium,Card Skimming,Kerala,Rupay,Axis Bank,0,86,Transportation,Ahmedabad
+26896905,Nitara Chander,Myntra,31-03-2024,9453,High,Card Skimming,Tamil Nadu,Visa,Kotak Bank,0,15,Food Delivery,Bangalore
+28606571,Suhana Deo,Zomato,01-04-2024,8565,Low,Identity Theft,Rajasthan,Rupay,Kotak Bank,1,17,E-commerce,Chennai
+29713091,Veer Kant,Zomato,01-08-2024,5009,Medium,Account Takeover,Rajasthan,Visa,Yes Bank,0,22,Transportation,Hyderabad
+19645801,Manikya Karpe,Big Bazaar,03-10-2024,6019,Low,Identity Theft,Telangana,Rupay,SBI,0,72,Food Delivery,Jaipur
+70121811,Heer Bahl,Myntra,07-11-2024,20359,Low,Phishing,West Bengal,Visa,Andhra Bank,0,26,Food Delivery,Jaipur
+95186326,Hazel Bawa,Zomato,29-07-2024,17599,Critical,Account Takeover,Maharashtra,Visa,SBI,1,30,Electronics,Jaipur
+26524451,Lakshay Chandra,Amazon India,09-05-2024,3946,Medium,Card Not Present,Maharashtra,Rupay,Kotak Bank,0,91,E-commerce,Kochi
+93307574,Riaan Uppal,Big Bazaar,30-08-2024,14755,Medium,Account Takeover,West Bengal,Mastercard,ICICI Bank,1,18,Food Delivery,Lucknow
+76777000,Saksham Swaminathan,Zomato,18-12-2023,1711,Low,Account Takeover,Kerala,Amex,Kotak Bank,0,25,Transportation,Jaipur
+48826652,Riaan Kumer,Amazon India,12-11-2024,7291,Low,Card Not Present,Karnataka,Visa,HDFC Bank,0,84,Groceries,Lucknow
+53119289,Faiyaz Andra,Uber,07-08-2024,21076,Medium,Phishing,Maharashtra,Mastercard,Bank of Baroda,1,86,Groceries,Kochi
+11754175,Rasha Buch,Big Bazaar,31-03-2024,3605,Low,Card Skimming,Uttar Pradesh,Rupay,Andhra Bank,0,74,E-commerce,Bangalore
+56313270,Zaina Kant,Swiggy,20-02-2024,9461,High,Card Skimming,Maharashtra,Mastercard,HDFC Bank,0,78,Electronics,Kochi
+77697734,Faiyaz Hans,Uber,29-10-2024,4329,High,Account Takeover,Kerala,Rupay,Yes Bank,0,42,E-commerce,Kolkata
+20959297,Hansh Vohra,Uber,29-10-2024,18054,Medium,Card Not Present,West Bengal,Visa,HDFC Bank,1,81,Electronics,Jaipur
+15774284,Samiha Balan,Big Bazaar,07-02-2024,4005,Medium,Phishing,Rajasthan,Amex,Andhra Bank,0,85,Groceries,Ahmedabad
+49808870,Prerak Borra,Myntra,01-01-2024,11792,Medium,Phishing,Kerala,Visa,SBI,0,31,Groceries,Kochi
+30436209,Yuvraj  Kant,Tata Cliq,17-03-2024,13557,Low,Account Takeover,Tamil Nadu,Mastercard,Federal Bank,0,82,Transportation,Lucknow
+50300676,Reyansh Batra,Big Bazaar,29-05-2024,6566,Low,Account Takeover,Telangana,Amex,Yes Bank,1,93,E-commerce,Kolkata
+62323465,Piya Lad,Swiggy,07-08-2024,18405,Low,Identity Theft,Telangana,Mastercard,Yes Bank,0,60,Electronics,Hyderabad
+21344753,Parinaaz Deol,Reliance Digital,23-12-2023,12460,Low,Phishing,West Bengal,Mastercard,ICICI Bank,1,60,Food Delivery,Delhi
+49929650,Aarna Bumb,Amazon India,01-03-2024,5611,High,Identity Theft,Karnataka,Amex,SBI,0,92,Food Delivery,Ahmedabad
+45229302,Amira Bhat,Flipkart,22-10-2024,17881,High,Card Not Present,West Bengal,Rupay,Axis Bank,0,46,Apparel,Delhi
+85944795,Alia Baral,Uber,14-03-2024,11238,Low,Card Skimming,Rajasthan,Visa,ICICI Bank,0,32,Electronics,Bangalore
+71917708,Armaan Amble,Reliance Digital,30-01-2024,12007,High,Card Not Present,Uttar Pradesh,Rupay,Bank of Baroda,1,87,Groceries,Mumbai
+13304438,Nehmat Lad,Tata Cliq,21-07-2024,9883,High,Card Skimming,Tamil Nadu,Visa,Axis Bank,0,43,E-commerce,Bangalore
+30285704,Alia Dey,Amazon India,12-03-2024,8474,Low,Identity Theft,Delhi,Amex,SBI,0,10,Food Delivery,Kolkata
+42380998,Himmat Cherian,Zomato,04-11-2024,11058,Low,Card Not Present,Delhi,Amex,ICICI Bank,0,13,Groceries,Chennai
+85856573,Chirag Chander,Big Bazaar,03-11-2024,8224,Low,Identity Theft,Karnataka,Visa,Federal Bank,0,48,Transportation,Kolkata
+89021354,Divit Saini,Uber,19-08-2024,1593,Critical,Phishing,Delhi,Mastercard,ICICI Bank,1,30,Electronics,Ahmedabad
+19920333,Vedika Korpal,Reliance Digital,17-09-2024,7153,Critical,Identity Theft,Karnataka,Mastercard,Axis Bank,0,31,Food Delivery,Mumbai
+92306692,Vidur Balan,Myntra,11-06-2024,7002,Medium,Card Skimming,Maharashtra,Rupay,Yes Bank,0,14,E-commerce,Bangalore
+16695479,Mamooty Ranganathan,Big Bazaar,22-10-2024,14361,Low,Card Not Present,Karnataka,Visa,Federal Bank,0,22,E-commerce,Kolkata
+60735981,Manjari Agate,Tata Cliq,11-07-2024,21337,Medium,Phishing,Kerala,Mastercard,ICICI Bank,0,48,Transportation,Hyderabad
+41889517,Akarsh Gaba,Tata Cliq,07-09-2024,2074,Critical,Account Takeover,Maharashtra,Visa,Kotak Bank,0,77,E-commerce,Kochi
+93878137,Seher Shah,Flipkart,17-09-2024,9854,Low,Card Not Present,Telangana,Rupay,Axis Bank,0,27,Electronics,Kolkata
+23633392,Miraya Dash,Swiggy,17-05-2024,19087,Low,Card Not Present,Maharashtra,Amex,HDFC Bank,1,88,E-commerce,Kochi
+93858354,Lagan Sabharwal,Reliance Digital,20-02-2024,21326,Medium,Card Not Present,Telangana,Mastercard,HDFC Bank,1,19,Food Delivery,Delhi
+50133315,Darshit Ratti,Tata Cliq,06-03-2024,24449,Low,Account Takeover,Rajasthan,Visa,Federal Bank,0,47,Transportation,Jaipur
+99881019,Baiju Sengupta,Swiggy,26-01-2024,8163,Low,Card Not Present,Tamil Nadu,Mastercard,SBI,0,91,Groceries,Chennai
+42583702,Saksham Soni,Flipkart,07-05-2024,5001,Low,Phishing,Maharashtra,Rupay,Axis Bank,0,39,E-commerce,Jaipur
+80744133,Dharmajan Apte,Swiggy,04-12-2024,22963,Low,Card Skimming,Rajasthan,Mastercard,Axis Bank,0,89,E-commerce,Ahmedabad
+25683765,Akarsh Walia,Uber,14-12-2024,6874,High,Account Takeover,Gujarat,Rupay,ICICI Bank,0,12,Apparel,Kolkata
+24972916,Seher Batta,Tata Cliq,29-08-2024,15571,Low,Identity Theft,Tamil Nadu,Amex,SBI,0,77,E-commerce,Lucknow
+37530528,Hridaan Contractor,Flipkart,23-11-2024,6473,Critical,Account Takeover,Rajasthan,Visa,Bank of Baroda,0,61,Apparel,Bangalore
+90527786,Saira Bose,Amazon India,23-03-2024,5840,Low,Phishing,Rajasthan,Mastercard,Axis Bank,0,74,Food Delivery,Ahmedabad
+28967339,Tanya Sarna,Big Bazaar,22-11-2024,3202,High,Account Takeover,Delhi,Amex,Kotak Bank,1,69,Groceries,Bangalore
+18105851,Nakul Rana,Swiggy,27-05-2024,12974,Low,Phishing,Tamil Nadu,Rupay,SBI,0,87,Transportation,Bangalore
+43702153,Hazel Dey,Big Bazaar,18-01-2024,22838,Low,Card Not Present,West Bengal,Amex,Kotak Bank,0,57,Food Delivery,Kolkata
+75904529,Advik Balay,Tata Cliq,14-02-2024,4626,Low,Card Not Present,Delhi,Mastercard,Yes Bank,0,17,Apparel,Ahmedabad
+69016171,Ojas Srinivasan,Myntra,22-11-2024,24909,Low,Phishing,West Bengal,Amex,Kotak Bank,0,18,Transportation,Kochi
+96058186,Drishya Lata,Zomato,19-01-2024,6890,High,Identity Theft,Kerala,Rupay,Yes Bank,1,32,E-commerce,Kolkata
+13034228,Ojas Arora,Uber,03-02-2024,19871,Low,Card Not Present,West Bengal,Visa,HDFC Bank,1,44,Food Delivery,Chennai
+55328276,Hunar Krishna,Lifestyle,27-01-2024,20391,Critical,Card Skimming,Tamil Nadu,Amex,SBI,0,95,Electronics,Lucknow
+88656447,Kismat Aurora,Reliance Digital,24-09-2024,20815,Medium,Account Takeover,Gujarat,Amex,SBI,0,49,Food Delivery,Hyderabad
+99785209,Vritika Sharma,Lifestyle,08-11-2024,4759,Critical,Card Not Present,Maharashtra,Mastercard,Federal Bank,0,32,Apparel,Delhi
+38065614,Mohanlal Chaudhuri,Reliance Digital,24-04-2024,4024,Medium,Account Takeover,Gujarat,Amex,Federal Bank,0,17,E-commerce,Delhi
+62517762,Mamooty Kant,Amazon India,04-04-2024,12321,Medium,Card Skimming,Kerala,Mastercard,SBI,0,80,E-commerce,Bangalore
+34035436,Sahil Deshmukh,Reliance Digital,09-05-2024,4619,High,Identity Theft,Telangana,Mastercard,ICICI Bank,0,55,Groceries,Mumbai
+97416206,Elakshi Dugar,Flipkart,11-02-2024,7060,Medium,Identity Theft,Uttar Pradesh,Amex,ICICI Bank,0,29,E-commerce,Jaipur
+18982234,Suhana Barman,Big Bazaar,03-10-2024,11009,Low,Card Skimming,Telangana,Mastercard,Kotak Bank,0,43,Electronics,Chennai
+75876902,Alia Kari,Uber,14-04-2024,13717,Medium,Card Not Present,Telangana,Visa,Axis Bank,1,32,Electronics,Hyderabad
+84378270,Tanya Chatterjee,Myntra,22-08-2024,9479,Low,Identity Theft,Maharashtra,Mastercard,HDFC Bank,1,22,Food Delivery,Lucknow
+11103414,Anya Cheema,Uber,12-12-2024,867,Low,Phishing,Rajasthan,Amex,Axis Bank,0,17,Groceries,Lucknow
+20917683,Dhruv Guha,Reliance Digital,28-12-2023,21511,Low,Identity Theft,Rajasthan,Amex,ICICI Bank,0,90,E-commerce,Kolkata
+22770356,Tarini Chhabra,Big Bazaar,31-10-2024,16910,Medium,Card Not Present,Rajasthan,Mastercard,Federal Bank,1,43,Apparel,Mumbai
+82767917,Miraya Goda,Zomato,20-05-2024,10045,Medium,Card Skimming,Rajasthan,Mastercard,HDFC Bank,0,17,Electronics,Ahmedabad
+47451037,Hrishita Chakraborty,Swiggy,27-10-2024,20937,Medium,Phishing,Karnataka,Rupay,Andhra Bank,0,39,Groceries,Lucknow
+26950485,Elakshi Swamy,Big Bazaar,26-03-2024,23615,High,Identity Theft,Karnataka,Visa,Federal Bank,0,70,Apparel,Kolkata
+22585061,Sara Master,Lifestyle,14-12-2024,20134,Medium,Card Not Present,Rajasthan,Visa,Andhra Bank,0,49,Transportation,Delhi
+74089321,Sana Bains,Reliance Digital,24-08-2024,8391,Low,Phishing,Karnataka,Visa,Federal Bank,0,12,E-commerce,Mumbai
+26400306,Ishaan Dugar,Reliance Digital,19-11-2024,24466,Low,Card Not Present,West Bengal,Rupay,Andhra Bank,1,60,Electronics,Chennai
+70441809,Samar Seth,Tata Cliq,01-09-2024,4478,High,Card Skimming,Maharashtra,Amex,Yes Bank,0,27,Food Delivery,Hyderabad
+90474062,Divij Rao,Swiggy,12-07-2024,11512,Medium,Identity Theft,Maharashtra,Rupay,Federal Bank,1,72,Groceries,Hyderabad
+10036453,Saksham Ghose,Reliance Digital,10-02-2024,13620,Medium,Identity Theft,Gujarat,Visa,Bank of Baroda,0,76,Groceries,Kochi
+90028796,Trisha Khanna,Lifestyle,02-06-2024,18763,Medium,Card Not Present,Telangana,Amex,ICICI Bank,0,27,Electronics,Chennai
+84110896,Eva Sharma,Amazon India,28-10-2024,18831,Critical,Account Takeover,Uttar Pradesh,Visa,Axis Bank,0,30,Transportation,Delhi
+77878340,Saanvi Rajan,Lifestyle,25-09-2024,20431,Medium,Phishing,Uttar Pradesh,Visa,ICICI Bank,1,20,Electronics,Kochi
+17767871,Farhan Chowdhury,Lifestyle,15-06-2024,7286,Medium,Card Not Present,West Bengal,Visa,Yes Bank,0,90,E-commerce,Mumbai
+55084639,Armaan Chada,Uber,19-12-2023,18201,Low,Account Takeover,Gujarat,Amex,Federal Bank,0,55,Food Delivery,Bangalore
+43909427,Yasmin Chaudhary,Lifestyle,08-07-2024,12237,High,Card Not Present,West Bengal,Amex,ICICI Bank,0,81,Apparel,Bangalore
+11903948,Divit Gola,Myntra,02-11-2024,13678,High,Account Takeover,Rajasthan,Mastercard,Kotak Bank,0,64,E-commerce,Jaipur
+59019965,Ivan Kant,Uber,23-12-2023,16720,High,Account Takeover,Kerala,Amex,Federal Bank,0,69,Apparel,Hyderabad
+41835616,Vanya Bhasin,Swiggy,18-11-2024,17014,Low,Card Not Present,Telangana,Amex,HDFC Bank,0,69,Transportation,Lucknow
+27433729,Kiaan Jayaraman,Myntra,24-01-2024,24000,Low,Account Takeover,Rajasthan,Amex,Federal Bank,0,92,Food Delivery,Jaipur
+87906190,Hridaan Gala,Zomato,05-04-2024,15370,Medium,Card Not Present,Uttar Pradesh,Visa,Andhra Bank,1,90,Apparel,Bangalore
+60239461,Inaaya  Vohra,Flipkart,23-03-2024,12022,High,Account Takeover,West Bengal,Amex,Yes Bank,1,35,E-commerce,Jaipur
+93873983,Adira Jha,Big Bazaar,29-06-2024,24832,Critical,Card Not Present,Karnataka,Visa,ICICI Bank,0,69,Electronics,Kolkata
+37506434,Nakul Deep,Big Bazaar,19-10-2024,14758,High,Identity Theft,Maharashtra,Amex,SBI,0,39,Transportation,Hyderabad
+36595607,Yuvaan Bava,Zomato,18-04-2024,21612,High,Card Skimming,Uttar Pradesh,Rupay,HDFC Bank,0,15,Food Delivery,Bangalore
+94337967,Rati Dhillon,Uber,15-04-2024,179,Low,Card Not Present,Delhi,Visa,Andhra Bank,1,78,Groceries,Bangalore
+77985819,Aaryahi Lalla,Tata Cliq,28-07-2024,16968,Low,Card Not Present,Uttar Pradesh,Amex,Yes Bank,0,89,Groceries,Mumbai
+16720205,Jhanvi Goswami,Tata Cliq,13-10-2024,1086,Low,Card Not Present,Karnataka,Rupay,Kotak Bank,0,34,Electronics,Kolkata
+10278817,Ivan Chada,Amazon India,18-03-2024,14950,Low,Phishing,Rajasthan,Rupay,Axis Bank,1,37,Groceries,Jaipur
+21513009,Adah Sehgal,Myntra,14-12-2024,23277,Critical,Phishing,Kerala,Rupay,ICICI Bank,0,16,E-commerce,Kochi
+46620083,Kaira Karnik,Swiggy,23-02-2024,14304,Medium,Account Takeover,Kerala,Visa,Federal Bank,1,52,Food Delivery,Mumbai
+64197841,Kaira Ben,Myntra,13-04-2024,14451,High,Card Skimming,Maharashtra,Rupay,SBI,0,48,Transportation,Ahmedabad
+65593686,Alia Bansal,Big Bazaar,04-10-2024,16570,Low,Identity Theft,Telangana,Amex,Bank of Baroda,0,60,Groceries,Bangalore
+32746603,Ayesha Mann,Reliance Digital,13-06-2024,18665,Low,Identity Theft,Kerala,Visa,Andhra Bank,0,58,E-commerce,Kochi
+40476578,Uthkarsh Sridhar,Lifestyle,10-07-2024,14889,High,Account Takeover,Uttar Pradesh,Rupay,Bank of Baroda,0,74,Transportation,Hyderabad
+40246722,Mamooty Kale,Uber,17-01-2024,7965,Critical,Account Takeover,Maharashtra,Rupay,Bank of Baroda,0,10,E-commerce,Chennai
+86063662,Kabir Ratta,Flipkart,23-10-2024,10556,High,Card Skimming,Kerala,Amex,Andhra Bank,0,93,Electronics,Kolkata
+51663167,Ira Chaudhry,Lifestyle,10-01-2024,4400,High,Identity Theft,Karnataka,Rupay,SBI,0,22,Electronics,Jaipur
+10941967,Rohan Bahl,Reliance Digital,08-12-2024,24030,High,Identity Theft,Rajasthan,Rupay,ICICI Bank,0,72,Groceries,Jaipur
+21703651,Arnav Kala,Tata Cliq,08-12-2024,8118,High,Identity Theft,Maharashtra,Mastercard,Federal Bank,1,62,Groceries,Delhi
+57373126,Vihaan Issac,Uber,29-11-2024,17438,Medium,Account Takeover,Karnataka,Visa,Andhra Bank,1,29,E-commerce,Lucknow
+85049341,Ojas Dey,Reliance Digital,26-12-2023,3375,Medium,Card Not Present,Karnataka,Amex,Federal Bank,1,14,Apparel,Bangalore
+83959989,Lakshit Chadha,Tata Cliq,11-02-2024,6942,High,Phishing,Maharashtra,Amex,Kotak Bank,0,31,Transportation,Delhi
+26137438,Seher Bhasin,Myntra,20-06-2024,5819,Medium,Card Not Present,Delhi,Visa,Federal Bank,0,76,Groceries,Delhi
+92663281,Arnav Kibe,Swiggy,24-07-2024,22864,Medium,Card Skimming,Kerala,Mastercard,ICICI Bank,1,91,E-commerce,Lucknow
+69633951,Aayush Grover,Big Bazaar,16-05-2024,14577,Low,Card Not Present,Tamil Nadu,Mastercard,SBI,0,14,Electronics,Delhi
+41035476,Indrans Kannan,Flipkart,27-10-2024,21092,Low,Card Skimming,Maharashtra,Visa,Kotak Bank,1,40,Transportation,Jaipur
+68711991,Nayantara Brahmbhatt,Amazon India,07-03-2024,17800,High,Account Takeover,Karnataka,Amex,Federal Bank,0,70,Food Delivery,Jaipur
+16606687,Siya Comar,Amazon India,02-12-2024,507,Low,Account Takeover,Uttar Pradesh,Mastercard,Andhra Bank,0,46,Groceries,Delhi
+85633127,Ishita Vasa,Myntra,21-06-2024,6300,Low,Phishing,Delhi,Visa,Andhra Bank,1,13,Electronics,Mumbai
+58136746,Jivika Iyengar,Swiggy,02-02-2024,13639,Medium,Card Not Present,Uttar Pradesh,Amex,Kotak Bank,0,11,Apparel,Mumbai
+40997247,Arnav Jani,Uber,05-03-2024,10350,Low,Identity Theft,Telangana,Mastercard,ICICI Bank,0,53,Electronics,Hyderabad
+17996489,Shalv Swaminathan,Big Bazaar,28-10-2024,7945,Critical,Card Not Present,Uttar Pradesh,Amex,Axis Bank,0,95,Groceries,Chennai
+82903255,Jayant Kari,Big Bazaar,14-06-2024,12484,Low,Phishing,Gujarat,Rupay,ICICI Bank,0,77,Transportation,Jaipur
+65231136,Miraya Handa,Uber,08-03-2024,16544,Low,Card Not Present,Kerala,Mastercard,SBI,0,87,Groceries,Chennai
+91022854,Anvi Golla,Myntra,27-04-2024,8226,Medium,Card Skimming,Rajasthan,Rupay,Kotak Bank,1,12,E-commerce,Mumbai
+38927003,Alisha Wable,Flipkart,17-05-2024,18809,Medium,Card Skimming,Karnataka,Mastercard,Andhra Bank,1,11,Transportation,Jaipur
+79105985,Drishya Balasubramanian,Big Bazaar,12-06-2024,4498,Low,Card Not Present,Rajasthan,Amex,HDFC Bank,1,94,Apparel,Ahmedabad
+73941325,Divij Saha,Swiggy,09-02-2024,11530,Medium,Identity Theft,Telangana,Rupay,Kotak Bank,0,72,Food Delivery,Kochi
+66081288,Saira Wagle,Uber,15-03-2024,22394,Low,Identity Theft,Maharashtra,Amex,Andhra Bank,0,25,E-commerce,Mumbai
+64376157,Ryan Krishnan,Tata Cliq,18-02-2024,6693,Medium,Card Skimming,Uttar Pradesh,Amex,Kotak Bank,0,60,Electronics,Bangalore
+97464125,Zain Sabharwal,Uber,06-05-2024,11922,Low,Phishing,Delhi,Rupay,Kotak Bank,0,39,Electronics,Kolkata
+11999667,Navya Gaba,Reliance Digital,10-11-2024,20228,Low,Account Takeover,Rajasthan,Mastercard,ICICI Bank,0,49,Food Delivery,Kolkata
+95803807,Darshit Bhavsar,Big Bazaar,09-05-2024,875,High,Card Not Present,Uttar Pradesh,Visa,Yes Bank,0,88,Electronics,Bangalore
+39487873,Kartik De,Zomato,12-04-2024,8133,High,Account Takeover,Delhi,Visa,Axis Bank,1,61,E-commerce,Mumbai
+93075828,Vihaan Bhardwaj,Amazon India,29-09-2024,11747,Low,Account Takeover,Telangana,Amex,Bank of Baroda,0,60,Groceries,Chennai
+78044303,Vanya Sachdev,Flipkart,20-09-2024,13292,High,Card Skimming,Delhi,Visa,Federal Bank,0,76,Food Delivery,Kolkata
+98552438,Sahil Bhavsar,Myntra,31-12-2023,6256,Medium,Phishing,Kerala,Rupay,Bank of Baroda,0,13,Electronics,Chennai
+49527071,Hazel Kamdar,Swiggy,18-02-2024,6715,Critical,Account Takeover,Kerala,Rupay,SBI,0,41,Transportation,Lucknow
+61336800,Keya Dixit,Reliance Digital,05-05-2024,17543,High,Account Takeover,Gujarat,Amex,Federal Bank,0,23,Electronics,Ahmedabad
+22948163,Rohan Sharaf,Lifestyle,17-03-2024,6161,Low,Account Takeover,Delhi,Mastercard,Andhra Bank,0,29,Apparel,Mumbai
+80049301,Anahita Kaul,Zomato,11-10-2024,16279,Medium,Card Skimming,Telangana,Amex,Axis Bank,0,27,E-commerce,Hyderabad
+93311283,Indrajit Aggarwal,Big Bazaar,04-09-2024,18353,Medium,Phishing,Kerala,Amex,Kotak Bank,0,20,Groceries,Ahmedabad
+51864778,Pranay Dubey,Reliance Digital,08-12-2024,22102,Critical,Identity Theft,Delhi,Amex,SBI,0,51,Groceries,Mumbai
+43455099,Taran Chandran,Tata Cliq,07-04-2024,18097,Low,Card Not Present,Karnataka,Visa,Yes Bank,0,48,Electronics,Jaipur
+26759480,Drishya Das,Lifestyle,08-02-2024,14225,Medium,Identity Theft,Maharashtra,Amex,Yes Bank,0,84,Food Delivery,Delhi
+25081879,Misha Tripathi,Reliance Digital,13-02-2024,1214,High,Phishing,Uttar Pradesh,Amex,ICICI Bank,1,94,Transportation,Mumbai
+29294462,Veer Srinivasan,Uber,27-09-2024,8546,High,Phishing,Tamil Nadu,Rupay,HDFC Bank,1,43,Transportation,Chennai
+37503780,Tejas Thakur,Myntra,18-03-2024,22433,Critical,Account Takeover,Maharashtra,Amex,SBI,0,55,Groceries,Jaipur
+52779240,Ivana Kakar,Amazon India,09-11-2024,21955,Medium,Account Takeover,West Bengal,Visa,Yes Bank,0,89,E-commerce,Jaipur
+96305526,Dishani Savant,Amazon India,15-12-2024,3693,Medium,Phishing,Uttar Pradesh,Visa,Axis Bank,1,31,Electronics,Chennai
+96303693,Anahi Bandi,Zomato,31-05-2024,13131,Critical,Phishing,Rajasthan,Mastercard,SBI,1,40,Food Delivery,Mumbai
+85408160,Shayak Srinivasan,Zomato,22-01-2024,4731,Medium,Account Takeover,Karnataka,Mastercard,Bank of Baroda,0,92,E-commerce,Jaipur
+66190872,Aaina Walla,Zomato,10-07-2024,16724,Critical,Identity Theft,Delhi,Mastercard,Bank of Baroda,0,12,Food Delivery,Delhi
+70531547,Renee Mall,Swiggy,04-04-2024,9063,High,Phishing,West Bengal,Rupay,Kotak Bank,1,73,E-commerce,Kochi
+73852350,Rhea Divan,Amazon India,26-10-2024,2564,High,Card Skimming,Gujarat,Amex,Bank of Baroda,1,61,Electronics,Hyderabad
+49379435,Madhav Yogi,Swiggy,27-09-2024,13275,Medium,Phishing,West Bengal,Amex,Bank of Baroda,0,15,Apparel,Mumbai
+37805255,Lakshit Dhawan,Tata Cliq,31-01-2024,7041,Medium,Identity Theft,Delhi,Amex,Yes Bank,0,44,E-commerce,Mumbai
+71338553,Vidur Balasubramanian,Zomato,18-08-2024,1274,Medium,Card Skimming,Maharashtra,Visa,Andhra Bank,1,53,Food Delivery,Chennai
+41797189,Taimur Chahal,Myntra,25-03-2024,9248,Low,Account Takeover,West Bengal,Visa,Axis Bank,0,95,E-commerce,Lucknow
+46109432,Kavya Sarkar,Uber,31-01-2024,14248,Medium,Card Skimming,Tamil Nadu,Rupay,Federal Bank,0,23,Electronics,Ahmedabad
+60931822,Hrishita Sood,Big Bazaar,28-05-2024,22850,Low,Card Skimming,Karnataka,Visa,Kotak Bank,1,51,E-commerce,Jaipur
+71675303,Keya Kamdar,Reliance Digital,24-06-2024,13363,Medium,Card Not Present,Gujarat,Amex,SBI,0,44,Transportation,Kolkata
+48040457,Ivan Zacharia,Tata Cliq,13-03-2024,23783,Medium,Card Skimming,Uttar Pradesh,Amex,Axis Bank,1,52,Groceries,Chennai
+96559509,Tejas Chandra,Tata Cliq,24-07-2024,16730,Low,Identity Theft,Tamil Nadu,Amex,Kotak Bank,0,76,Groceries,Hyderabad
+62646678,Ahana  Dyal,Myntra,15-08-2024,3855,Critical,Card Not Present,Uttar Pradesh,Visa,HDFC Bank,1,86,Transportation,Lucknow
+76540878,Anahi Goda,Myntra,07-07-2024,24162,Low,Card Skimming,Uttar Pradesh,Mastercard,HDFC Bank,0,50,E-commerce,Kolkata
+96079306,Oorja Dugar,Lifestyle,10-05-2024,22131,Medium,Identity Theft,Gujarat,Mastercard,Andhra Bank,0,78,Apparel,Kolkata
+40983503,Anahi Shetty,Amazon India,17-09-2024,19992,High,Card Not Present,Delhi,Amex,HDFC Bank,0,35,Food Delivery,Kolkata
+87061467,Madhav Behl,Flipkart,21-05-2024,13657,Low,Card Not Present,Gujarat,Mastercard,Kotak Bank,1,78,Apparel,Mumbai
+64039519,Advika Sathe,Zomato,15-12-2024,15362,Low,Account Takeover,Maharashtra,Visa,Federal Bank,0,27,Groceries,Ahmedabad
+42558204,Nakul Rao,Flipkart,22-08-2024,24102,Low,Identity Theft,Telangana,Rupay,HDFC Bank,0,71,E-commerce,Kolkata
+32374141,Miraan Chhabra,Reliance Digital,25-09-2024,2742,Low,Identity Theft,Karnataka,Amex,Andhra Bank,1,21,Food Delivery,Ahmedabad
+26314863,Eshani Handa,Tata Cliq,11-10-2024,2096,High,Phishing,West Bengal,Rupay,Andhra Bank,1,56,Groceries,Ahmedabad
+78822238,Oorja Sahota,Uber,04-03-2024,15624,Critical,Account Takeover,Telangana,Rupay,Axis Bank,0,84,Apparel,Chennai
+69790649,Divij Dhar,Lifestyle,19-06-2024,16638,Low,Account Takeover,Rajasthan,Visa,Kotak Bank,0,69,Food Delivery,Jaipur
+88888500,Faiyaz Bhat,Amazon India,01-05-2024,13761,Medium,Account Takeover,Tamil Nadu,Amex,Federal Bank,0,90,Apparel,Ahmedabad
+69935435,Akarsh Sane,Uber,22-01-2024,24993,Low,Card Skimming,Tamil Nadu,Rupay,Bank of Baroda,0,65,E-commerce,Hyderabad
+97724869,Azad Gour,Tata Cliq,17-01-2024,17599,Low,Identity Theft,Karnataka,Mastercard,Yes Bank,1,36,Transportation,Mumbai
+73492027,Samiha Chand,Swiggy,11-05-2024,14301,Low,Account Takeover,Uttar Pradesh,Visa,ICICI Bank,1,51,Apparel,Kochi
+20736730,Aniruddh Chauhan,Big Bazaar,21-01-2024,3728,Low,Phishing,Gujarat,Rupay,Federal Bank,0,46,Groceries,Kochi
+47105121,Jhanvi Thaker,Lifestyle,26-07-2024,19255,Medium,Identity Theft,Gujarat,Visa,Federal Bank,1,86,Apparel,Hyderabad
+96725697,Rhea Desai,Big Bazaar,07-12-2024,7013,Low,Card Skimming,Telangana,Mastercard,ICICI Bank,0,55,Electronics,Hyderabad
+59503648,Veer Mann,Tata Cliq,15-08-2024,3188,Low,Card Not Present,Rajasthan,Visa,Kotak Bank,0,82,E-commerce,Chennai
+56595253,Misha Brahmbhatt,Swiggy,19-11-2024,7177,Medium,Account Takeover,Gujarat,Visa,Yes Bank,0,70,Transportation,Hyderabad
+38403665,Ishaan Sood,Big Bazaar,25-03-2024,9812,High,Account Takeover,Delhi,Visa,Federal Bank,0,23,Food Delivery,Mumbai
+24957911,Gatik Krishna,Uber,18-06-2024,10515,Low,Card Not Present,Telangana,Rupay,Andhra Bank,0,51,Transportation,Mumbai
+26453296,Tushar Dewan,Flipkart,12-10-2024,15195,Low,Account Takeover,Maharashtra,Amex,Bank of Baroda,0,63,E-commerce,Chennai
+57959505,Shlok Dewan,Big Bazaar,08-02-2024,7669,Low,Card Not Present,Uttar Pradesh,Mastercard,HDFC Bank,0,56,Apparel,Ahmedabad
+25638826,Parinaaz Sama,Uber,29-08-2024,15548,Medium,Account Takeover,Karnataka,Visa,Andhra Bank,1,60,Transportation,Ahmedabad
+87559065,Nehmat Krish,Tata Cliq,21-02-2024,7397,High,Card Skimming,Gujarat,Mastercard,HDFC Bank,0,54,E-commerce,Jaipur
+91102338,Mamooty Wadhwa,Reliance Digital,05-06-2024,12541,High,Account Takeover,Delhi,Mastercard,HDFC Bank,0,86,Apparel,Jaipur
+65621079,Hiran Dhingra,Lifestyle,04-04-2024,23248,Low,Card Skimming,Uttar Pradesh,Rupay,HDFC Bank,0,90,Transportation,Mumbai
+71221324,Krish Rama,Big Bazaar,04-02-2024,2156,Medium,Phishing,Maharashtra,Rupay,ICICI Bank,0,89,E-commerce,Ahmedabad
+91713852,Taran Mane,Flipkart,21-05-2024,12799,Low,Card Not Present,Telangana,Rupay,Federal Bank,0,84,Electronics,Jaipur
+13851101,Ivana Ray,Myntra,06-02-2024,16475,High,Phishing,Telangana,Amex,Bank of Baroda,0,46,Electronics,Kolkata
+50902245,Yuvraj  Choudhury,Reliance Digital,20-03-2024,3482,Critical,Identity Theft,Uttar Pradesh,Amex,ICICI Bank,0,51,Transportation,Chennai
+36905292,Parinaaz Sethi,Big Bazaar,25-01-2024,15347,Low,Card Skimming,Delhi,Amex,Axis Bank,0,50,Apparel,Lucknow
+70408964,Dharmajan Jaggi,Tata Cliq,20-01-2024,3959,Critical,Card Skimming,Telangana,Rupay,Federal Bank,0,52,Apparel,Delhi
+19245784,Advika Wason,Amazon India,27-03-2024,14491,Low,Card Skimming,Uttar Pradesh,Rupay,HDFC Bank,0,11,Food Delivery,Chennai
+73157031,Shayak Dugar,Reliance Digital,16-01-2024,1388,Critical,Card Skimming,Delhi,Mastercard,ICICI Bank,0,67,Food Delivery,Lucknow
+47817516,Hunar Loyal,Zomato,16-09-2024,11074,Medium,Card Skimming,West Bengal,Rupay,Bank of Baroda,0,51,Groceries,Ahmedabad
+29279198,Ehsaan Acharya,Zomato,17-10-2024,24500,Critical,Identity Theft,Gujarat,Visa,Kotak Bank,0,51,E-commerce,Ahmedabad
+82704953,Umang Kamdar,Reliance Digital,28-03-2024,1040,Low,Phishing,Telangana,Visa,Axis Bank,1,21,Electronics,Chennai
+55690090,Misha Lad,Lifestyle,02-10-2024,23121,Low,Card Skimming,Rajasthan,Mastercard,ICICI Bank,0,66,Groceries,Mumbai
+27774338,Darshit Chand,Amazon India,15-11-2024,22280,Low,Account Takeover,Rajasthan,Amex,ICICI Bank,0,36,Groceries,Kolkata
+54588413,Tara Sood,Myntra,01-05-2024,15188,High,Phishing,West Bengal,Visa,Kotak Bank,1,35,Groceries,Chennai
+61243452,Anaya Sur,Amazon India,18-08-2024,15686,Low,Phishing,Gujarat,Amex,Andhra Bank,0,44,Electronics,Jaipur
+10503549,Chirag Badami,Lifestyle,29-02-2024,15834,Low,Phishing,Gujarat,Visa,SBI,0,26,E-commerce,Bangalore
+19760771,Hansh Chanda,Swiggy,24-11-2024,12593,Medium,Card Not Present,Telangana,Mastercard,SBI,0,18,Food Delivery,Chennai
+99943976,Kanav Kulkarni,Zomato,15-01-2024,22141,Medium,Phishing,West Bengal,Rupay,ICICI Bank,0,17,E-commerce,Delhi
+69841414,Aayush Lad,Swiggy,04-08-2024,4289,Low,Card Skimming,Kerala,Amex,Bank of Baroda,0,33,E-commerce,Mumbai
+43721608,Biju Rajagopal,Swiggy,21-05-2024,12409,Low,Account Takeover,Gujarat,Amex,SBI,0,72,E-commerce,Delhi
+44514712,Drishya Wason,Reliance Digital,29-08-2024,17306,Medium,Identity Theft,Uttar Pradesh,Mastercard,ICICI Bank,0,44,E-commerce,Kolkata
+53226199,Parinaaz Loyal,Amazon India,15-02-2024,11905,Low,Card Not Present,Rajasthan,Visa,Yes Bank,0,25,E-commerce,Ahmedabad
+14489900,Inaaya  Mani,Tata Cliq,11-06-2024,1757,Low,Account Takeover,Delhi,Rupay,Axis Bank,0,22,Electronics,Delhi
+94022226,Saksham Sahni,Lifestyle,29-01-2024,9753,Low,Identity Theft,Gujarat,Rupay,SBI,0,83,Electronics,Delhi
+56889647,Keya Konda,Lifestyle,26-07-2024,1627,Medium,Identity Theft,Tamil Nadu,Rupay,Andhra Bank,1,78,Food Delivery,Kolkata
+46357457,Purab Dhar,Tata Cliq,19-09-2024,9255,Critical,Card Skimming,Tamil Nadu,Rupay,Andhra Bank,1,30,Food Delivery,Jaipur
+49423002,Hazel Kala,Reliance Digital,22-10-2024,17692,Critical,Card Not Present,Tamil Nadu,Rupay,Axis Bank,0,90,Electronics,Delhi
+92787297,Piya Bhat,Reliance Digital,16-10-2024,10177,Medium,Card Not Present,Maharashtra,Mastercard,Andhra Bank,0,24,Food Delivery,Hyderabad
+93410928,Sana Bhagat,Flipkart,15-02-2024,916,Medium,Card Skimming,Rajasthan,Rupay,Axis Bank,0,10,Electronics,Hyderabad
+38843622,Badal Sem,Lifestyle,26-01-2024,4755,High,Identity Theft,Tamil Nadu,Mastercard,Andhra Bank,0,21,Electronics,Hyderabad
+81433034,Dishani Kala,Amazon India,21-07-2024,22084,Low,Card Skimming,Rajasthan,Mastercard,Bank of Baroda,0,17,Electronics,Bangalore
+25987494,Dishani Samra,Myntra,27-04-2024,3113,Medium,Card Skimming,Telangana,Amex,SBI,0,76,Apparel,Jaipur
+53984717,Neysa Madan,Tata Cliq,19-10-2024,22063,Medium,Identity Theft,Delhi,Mastercard,Yes Bank,0,12,Electronics,Lucknow
+43253338,Amira Iyengar,Flipkart,30-06-2024,235,Low,Identity Theft,Tamil Nadu,Mastercard,ICICI Bank,0,46,Apparel,Chennai
+24723763,Jiya Doshi,Big Bazaar,29-04-2024,13100,High,Card Skimming,Kerala,Mastercard,Kotak Bank,0,29,Electronics,Jaipur
+70605670,Kanav Dewan,Myntra,12-01-2024,18610,High,Card Skimming,Delhi,Visa,Andhra Bank,0,18,Transportation,Ahmedabad
+50905060,Shlok Hegde,Uber,26-08-2024,16231,Medium,Card Not Present,West Bengal,Rupay,Federal Bank,0,78,Apparel,Hyderabad
+45638628,Armaan Walla,Lifestyle,07-02-2024,11914,High,Phishing,West Bengal,Amex,ICICI Bank,0,43,Food Delivery,Delhi
+45060895,Aaryahi Soni,Tata Cliq,29-12-2023,15367,Critical,Identity Theft,Maharashtra,Mastercard,HDFC Bank,0,89,Transportation,Hyderabad
+47480125,Zaina Kara,Swiggy,26-02-2024,3411,Medium,Card Not Present,Kerala,Visa,Andhra Bank,0,71,Food Delivery,Ahmedabad
+99532153,Shray Soman,Zomato,12-12-2024,21273,Critical,Card Not Present,Tamil Nadu,Mastercard,Andhra Bank,0,59,E-commerce,Kolkata
+87782801,Yuvraj  Ramaswamy,Zomato,08-03-2024,14489,Medium,Card Not Present,Telangana,Visa,ICICI Bank,0,58,Apparel,Kochi
+73018484,Ira Anne,Myntra,03-08-2024,18326,Low,Card Skimming,Karnataka,Rupay,HDFC Bank,0,25,Electronics,Hyderabad
+53876396,Vedika Kulkarni,Big Bazaar,11-12-2024,655,High,Identity Theft,Rajasthan,Visa,Bank of Baroda,0,57,Groceries,Ahmedabad
+62949794,Anay Khare,Swiggy,10-09-2024,10045,Low,Phishing,Maharashtra,Mastercard,Axis Bank,0,85,Apparel,Hyderabad
+62765558,Damini Shukla,Big Bazaar,28-11-2024,9046,Medium,Account Takeover,Rajasthan,Mastercard,Andhra Bank,0,41,Electronics,Mumbai
+73757884,Anvi Dass,Reliance Digital,18-11-2024,24940,High,Identity Theft,Tamil Nadu,Mastercard,Axis Bank,1,34,Transportation,Hyderabad
+89464402,Kismat Trivedi,Swiggy,06-02-2024,3916,Low,Card Skimming,Delhi,Amex,SBI,1,61,Electronics,Hyderabad
+19697885,Parinaaz Suresh,Tata Cliq,03-03-2024,20757,Low,Phishing,Rajasthan,Rupay,SBI,0,91,E-commerce,Delhi
+20922156,Sara Dhingra,Myntra,21-01-2024,20230,Critical,Card Skimming,Telangana,Mastercard,HDFC Bank,1,38,Apparel,Delhi
+74867110,Shray Magar,Flipkart,25-07-2024,1106,Low,Phishing,Maharashtra,Mastercard,Axis Bank,1,16,Electronics,Hyderabad
+37955374,Rati Gulati,Uber,19-12-2023,4656,High,Identity Theft,Karnataka,Visa,Yes Bank,0,58,Groceries,Ahmedabad
+95084386,Mohanlal Viswanathan,Uber,27-06-2024,5037,Low,Account Takeover,Kerala,Amex,Yes Bank,0,62,Groceries,Mumbai
+92338799,Anay Madan,Big Bazaar,17-06-2024,23119,Low,Card Skimming,Uttar Pradesh,Visa,Federal Bank,1,90,E-commerce,Delhi
+84805756,Vaibhav Rana,Swiggy,30-11-2024,11365,Low,Phishing,Karnataka,Mastercard,ICICI Bank,1,91,Transportation,Bangalore
+71782835,Saanvi Butala,Tata Cliq,17-01-2024,13339,Medium,Phishing,Kerala,Amex,Federal Bank,0,61,Electronics,Jaipur
+94837108,Vedika Joshi,Lifestyle,11-10-2024,7483,Low,Account Takeover,Delhi,Amex,Andhra Bank,1,22,Transportation,Jaipur
+72503759,Shamik Desai,Myntra,30-06-2024,1818,High,Phishing,Delhi,Amex,Yes Bank,0,25,Electronics,Lucknow
+62603159,Romil Boase,Lifestyle,14-06-2024,14900,Low,Phishing,West Bengal,Mastercard,Yes Bank,1,91,Apparel,Delhi
+18332343,Diya Raj,Big Bazaar,07-02-2024,1299,Low,Account Takeover,Tamil Nadu,Mastercard,Andhra Bank,0,93,Groceries,Delhi
+58536811,Ayesha Malhotra,Reliance Digital,10-07-2024,3410,High,Phishing,Rajasthan,Visa,Yes Bank,1,94,Electronics,Kochi
+76186197,Jayant Sodhi,Amazon India,29-07-2024,10406,Medium,Card Skimming,Tamil Nadu,Rupay,SBI,1,54,Transportation,Lucknow
+49535365,Himmat Sehgal,Big Bazaar,22-02-2024,10916,High,Account Takeover,Delhi,Visa,ICICI Bank,1,50,Electronics,Kolkata
+26518441,Arhaan Krishna,Big Bazaar,19-08-2024,3797,Critical,Identity Theft,Rajasthan,Rupay,Axis Bank,0,20,Food Delivery,Chennai
+40346573,Tanya Mani,Swiggy,28-05-2024,14199,High,Card Not Present,Delhi,Rupay,Kotak Bank,0,61,Groceries,Kochi
+31372090,Trisha Raja,Flipkart,11-11-2024,9648,Low,Identity Theft,Uttar Pradesh,Rupay,Axis Bank,0,62,Electronics,Lucknow
+57805332,Manikya Wagle,Lifestyle,02-07-2024,18915,High,Identity Theft,West Bengal,Visa,ICICI Bank,0,90,Electronics,Kolkata
+90783209,Indrans Mani,Swiggy,03-04-2024,7274,Medium,Card Skimming,Gujarat,Amex,ICICI Bank,0,87,Electronics,Jaipur
+26233103,Nishith Koshy,Flipkart,22-10-2024,11583,Medium,Identity Theft,Rajasthan,Mastercard,Axis Bank,0,91,Groceries,Ahmedabad
+51833384,Shayak Baria,Swiggy,21-11-2024,1758,Low,Card Not Present,Rajasthan,Visa,ICICI Bank,0,26,Groceries,Jaipur
+50511993,Nirvaan Shenoy,Lifestyle,29-09-2024,4778,Medium,Phishing,Uttar Pradesh,Visa,SBI,0,24,Groceries,Kolkata
+96218843,Heer Bedi,Reliance Digital,11-09-2024,5899,Critical,Account Takeover,Karnataka,Visa,Andhra Bank,0,90,Transportation,Kolkata
+37850099,Anaya Bobal,Lifestyle,20-03-2024,14787,Critical,Identity Theft,Maharashtra,Visa,Andhra Bank,0,85,Food Delivery,Kolkata
+75964553,Advika Bhasin,Swiggy,25-11-2024,24096,Medium,Card Not Present,Gujarat,Rupay,SBI,0,54,Apparel,Ahmedabad
+60827365,Reyansh Manda,Big Bazaar,07-09-2024,1748,Critical,Phishing,Tamil Nadu,Amex,Yes Bank,1,48,Groceries,Delhi
+67553222,Navya Rajan,Lifestyle,04-01-2024,17905,Low,Phishing,West Bengal,Amex,Bank of Baroda,0,20,Electronics,Lucknow
+70703267,Nitya Kalla,Flipkart,16-05-2024,23582,Critical,Card Skimming,Tamil Nadu,Rupay,Kotak Bank,1,78,Electronics,Kolkata
+93723953,Drishya Desai,Uber,13-10-2024,10964,High,Identity Theft,Telangana,Rupay,Axis Bank,0,73,Transportation,Jaipur
+77013471,Piya Khurana,Swiggy,16-12-2023,18061,High,Card Not Present,Uttar Pradesh,Mastercard,Axis Bank,0,58,Electronics,Chennai
+17711735,Vidur Bali,Tata Cliq,27-04-2024,3447,High,Card Skimming,Gujarat,Rupay,Yes Bank,0,83,E-commerce,Delhi
+58869875,Hunar Dass,Big Bazaar,13-12-2024,7336,High,Identity Theft,Gujarat,Visa,Axis Bank,0,74,Groceries,Kolkata
+11993515,Inaaya  Dhawan,Tata Cliq,25-08-2024,20173,Critical,Identity Theft,Gujarat,Rupay,HDFC Bank,0,18,Electronics,Lucknow
+82239024,Hansh Gopal,Big Bazaar,20-03-2024,13734,Medium,Card Skimming,Maharashtra,Rupay,Andhra Bank,0,50,Apparel,Delhi
+86982876,Indranil Brar,Lifestyle,11-08-2024,15712,Medium,Account Takeover,Telangana,Visa,Axis Bank,0,91,Groceries,Hyderabad
+45876073,Biju Chaudhary,Reliance Digital,06-12-2024,23962,Medium,Card Skimming,Karnataka,Visa,Andhra Bank,0,49,Groceries,Jaipur
+25544395,Shamik Guha,Uber,10-08-2024,11824,Low,Card Skimming,Rajasthan,Mastercard,Yes Bank,0,67,Groceries,Kolkata
+54840974,Yasmin Raju,Uber,16-01-2024,20678,Low,Account Takeover,Telangana,Rupay,SBI,0,44,Electronics,Chennai
+51197159,Himmat Gala,Big Bazaar,10-03-2024,4951,Medium,Identity Theft,Rajasthan,Amex,Kotak Bank,0,16,Transportation,Mumbai
+23776754,Yashvi Mahajan,Reliance Digital,18-10-2024,2189,Medium,Phishing,Telangana,Amex,Andhra Bank,1,87,Transportation,Chennai
+27097875,Kiara Char,Uber,14-04-2024,11957,Medium,Phishing,Kerala,Mastercard,Andhra Bank,0,34,Food Delivery,Jaipur
+19280981,Charvi Sharaf,Lifestyle,22-02-2024,12023,Medium,Phishing,Delhi,Amex,Bank of Baroda,0,30,Electronics,Mumbai
+91106018,Anya Sastry,Swiggy,19-07-2024,2518,High,Card Skimming,Kerala,Rupay,ICICI Bank,0,69,Food Delivery,Bangalore
+28670299,Nitya Issac,Zomato,17-07-2024,895,Medium,Card Not Present,Maharashtra,Amex,Andhra Bank,1,46,Groceries,Hyderabad
+44658735,Kashvi Dora,Swiggy,25-07-2024,21347,High,Account Takeover,Telangana,Mastercard,Bank of Baroda,1,14,Transportation,Bangalore
+57594422,Rania Bhatia,Zomato,25-10-2024,9016,Medium,Card Skimming,West Bengal,Mastercard,HDFC Bank,0,62,Electronics,Kolkata
+58309979,Madhav Badami,Uber,06-08-2024,10912,Medium,Account Takeover,Maharashtra,Mastercard,SBI,1,32,Apparel,Bangalore
+16064842,Gatik Dua,Amazon India,02-01-2024,16211,Low,Account Takeover,Uttar Pradesh,Visa,Andhra Bank,0,90,Food Delivery,Bangalore
+32038843,Anahita Srinivas,Reliance Digital,04-05-2024,7179,Medium,Phishing,Kerala,Rupay,Kotak Bank,0,39,E-commerce,Lucknow
+90880782,Biju Rana,Myntra,10-04-2024,21569,Medium,Phishing,Gujarat,Amex,ICICI Bank,1,69,Groceries,Lucknow
+34720739,Shamik Dey,Flipkart,08-05-2024,8087,High,Card Not Present,Tamil Nadu,Visa,Kotak Bank,0,22,Apparel,Kochi
+25391208,Arhaan Sood,Zomato,27-11-2024,4545,Critical,Identity Theft,Uttar Pradesh,Mastercard,Kotak Bank,1,43,Electronics,Mumbai
+11566841,Aarush Savant,Myntra,19-03-2024,13250,Medium,Card Not Present,Rajasthan,Rupay,Yes Bank,0,73,Transportation,Chennai
+37792255,Jayesh Bora,Lifestyle,17-01-2024,9770,High,Identity Theft,Uttar Pradesh,Mastercard,Federal Bank,0,91,E-commerce,Kolkata
+78195881,Rasha Baria,Myntra,02-02-2024,2324,Medium,Card Not Present,Karnataka,Rupay,SBI,0,31,Food Delivery,Bangalore
+16553107,Veer Chandra,Tata Cliq,25-01-2024,11287,Low,Account Takeover,Kerala,Rupay,Kotak Bank,0,72,E-commerce,Kochi
+23626485,Yuvraj  Jaggi,Tata Cliq,30-05-2024,16796,Medium,Phishing,West Bengal,Visa,Federal Bank,0,17,Transportation,Hyderabad
+47281064,Eshani Hari,Myntra,14-06-2024,8102,Medium,Phishing,Gujarat,Mastercard,Yes Bank,0,66,Transportation,Jaipur
+49570396,Darshit Vora,Zomato,15-03-2024,16197,Low,Account Takeover,Rajasthan,Mastercard,ICICI Bank,0,78,Groceries,Kochi
+14844929,Yuvaan Gopal,Reliance Digital,20-04-2024,19237,Critical,Card Not Present,Karnataka,Amex,Federal Bank,0,69,Electronics,Mumbai
+70682410,Shayak Madan,Myntra,19-05-2024,4015,Medium,Card Skimming,Gujarat,Rupay,Axis Bank,0,95,E-commerce,Jaipur
+18091234,Lakshay Chand,Myntra,22-12-2023,9537,Medium,Account Takeover,Karnataka,Mastercard,Bank of Baroda,0,87,Electronics,Kolkata
+16459233,Anvi Saini,Lifestyle,12-12-2024,2155,Medium,Identity Theft,West Bengal,Mastercard,HDFC Bank,1,18,E-commerce,Ahmedabad
+62865553,Jayan Gaba,Amazon India,29-05-2024,5785,Medium,Phishing,Gujarat,Rupay,ICICI Bank,0,94,E-commerce,Jaipur
+42475828,Nishith Raja,Uber,31-12-2023,5790,High,Account Takeover,Kerala,Mastercard,Bank of Baroda,0,44,Electronics,Kochi
+71698739,Mehul Chaudry,Big Bazaar,31-10-2024,2492,High,Card Skimming,Tamil Nadu,Rupay,Federal Bank,0,29,Food Delivery,Ahmedabad
+16091282,Jivin Kala,Reliance Digital,15-12-2024,24182,Low,Card Not Present,Rajasthan,Amex,Kotak Bank,1,86,E-commerce,Bangalore
+48600452,Yashvi Doctor,Myntra,03-08-2024,11776,Low,Phishing,West Bengal,Mastercard,Federal Bank,0,81,Groceries,Chennai
+37274744,Ira Rama,Swiggy,27-08-2024,22400,Critical,Card Not Present,Telangana,Amex,Federal Bank,0,12,Apparel,Bangalore
+87624261,Navya Sachdev,Zomato,18-02-2024,14628,Low,Card Not Present,Rajasthan,Mastercard,ICICI Bank,1,66,Transportation,Ahmedabad
+25388475,Saira Sangha,Tata Cliq,30-07-2024,11477,Medium,Account Takeover,Rajasthan,Amex,Federal Bank,1,80,Groceries,Mumbai
+15366028,Vedika Rajagopal,Flipkart,27-01-2024,16211,Low,Identity Theft,Karnataka,Amex,Bank of Baroda,0,16,Apparel,Bangalore
+15442058,Anahi Bassi,Zomato,23-08-2024,16284,Low,Identity Theft,West Bengal,Visa,Bank of Baroda,1,30,E-commerce,Kolkata
+63324179,Vanya Mannan,Lifestyle,19-05-2024,22853,Low,Account Takeover,Telangana,Visa,Federal Bank,0,28,Electronics,Hyderabad
+35677748,Sana Raval,Amazon India,11-08-2024,12120,Low,Card Not Present,Telangana,Rupay,HDFC Bank,0,25,Groceries,Bangalore
+59741871,Tara Kalita,Swiggy,14-07-2024,20040,Low,Phishing,West Bengal,Rupay,Bank of Baroda,1,52,Food Delivery,Bangalore
+48592936,Hrishita Rau,Amazon India,25-09-2024,13221,Critical,Card Not Present,Maharashtra,Amex,Yes Bank,0,56,Electronics,Bangalore
+45743671,Divit Saran,Reliance Digital,10-02-2024,141,Critical,Card Skimming,Maharashtra,Visa,Yes Bank,0,57,Transportation,Bangalore
+77505119,Badal Kota,Flipkart,30-08-2024,17006,Low,Identity Theft,West Bengal,Mastercard,Yes Bank,1,20,Electronics,Chennai
+55635877,Umang Banerjee,Big Bazaar,01-01-2024,17949,Low,Card Skimming,Karnataka,Mastercard,ICICI Bank,1,47,Transportation,Kochi
+74059555,Vardaniya Ramesh,Swiggy,17-12-2023,15776,Low,Account Takeover,Kerala,Visa,Andhra Bank,0,68,Electronics,Jaipur
+58911466,Suhana Chaudhary,Flipkart,05-07-2024,12769,Medium,Identity Theft,Delhi,Rupay,SBI,0,86,Food Delivery,Lucknow
+77009034,Ritvik Madan,Reliance Digital,13-11-2024,12342,Low,Identity Theft,Delhi,Rupay,Axis Bank,0,10,Food Delivery,Chennai
+86898101,Taran Kibe,Swiggy,29-07-2024,23173,Low,Phishing,West Bengal,Visa,ICICI Bank,0,59,Transportation,Hyderabad
+74199081,Suhana Sani,Big Bazaar,25-03-2024,7603,Low,Account Takeover,Delhi,Visa,Bank of Baroda,0,83,Groceries,Mumbai
+35242722,Arnav Shan,Amazon India,25-01-2024,4969,Low,Card Skimming,Gujarat,Mastercard,ICICI Bank,0,33,Electronics,Kolkata
+43279531,Biju Issac,Big Bazaar,08-07-2024,1348,Medium,Account Takeover,Kerala,Mastercard,Bank of Baroda,0,57,Apparel,Jaipur
+84876085,Sahil Agrawal,Zomato,23-10-2024,16340,Medium,Phishing,Telangana,Visa,SBI,1,52,Transportation,Mumbai
+69231583,Shamik Anand,Myntra,12-11-2024,22470,Low,Account Takeover,Telangana,Amex,ICICI Bank,0,93,Groceries,Kolkata
+29686776,Fateh Mannan,Zomato,27-03-2024,1513,Low,Phishing,Rajasthan,Mastercard,Axis Bank,0,59,Groceries,Hyderabad
+76081790,Bhavin Lala,Tata Cliq,02-10-2024,2673,Low,Card Skimming,Uttar Pradesh,Visa,Bank of Baroda,0,36,E-commerce,Mumbai
+21787913,Tushar Divan,Big Bazaar,20-07-2024,15436,Critical,Card Skimming,Tamil Nadu,Amex,HDFC Bank,1,31,Food Delivery,Ahmedabad
+14905993,Shamik Kalla,Reliance Digital,30-11-2024,11291,High,Identity Theft,Delhi,Mastercard,Andhra Bank,0,54,Transportation,Kochi
+19105201,Mannat Sane,Big Bazaar,27-04-2024,23695,High,Account Takeover,West Bengal,Visa,Kotak Bank,0,24,Transportation,Delhi
+90481613,Kartik Swaminathan,Zomato,21-10-2024,15964,High,Card Not Present,Delhi,Rupay,Andhra Bank,0,19,E-commerce,Delhi
+63054702,Parinaaz Deshmukh,Swiggy,15-09-2024,11046,Low,Account Takeover,West Bengal,Visa,Axis Bank,0,83,Food Delivery,Kochi
+90598645,Priyansh Kannan,Uber,20-03-2024,15846,Low,Card Not Present,West Bengal,Amex,Andhra Bank,0,83,Groceries,Jaipur
+98331068,Kanav Bains,Myntra,22-11-2024,2213,High,Account Takeover,West Bengal,Visa,Yes Bank,0,34,Transportation,Lucknow
+81033711,Kabir Anand,Zomato,12-08-2024,18755,Low,Identity Theft,Uttar Pradesh,Visa,ICICI Bank,1,94,Food Delivery,Kochi
+95619580,Vaibhav Chaudhuri,Uber,08-12-2024,18343,Critical,Card Skimming,Rajasthan,Amex,ICICI Bank,0,68,E-commerce,Lucknow
+38037043,Aarush Dey,Myntra,30-12-2023,6872,Low,Account Takeover,Uttar Pradesh,Visa,Yes Bank,1,81,E-commerce,Chennai
+58944099,Charvi Bhalla,Flipkart,20-02-2024,9995,High,Card Skimming,Maharashtra,Visa,Bank of Baroda,0,57,E-commerce,Jaipur
+86449237,Saksham Kala,Amazon India,17-12-2023,14151,Medium,Identity Theft,Rajasthan,Mastercard,Kotak Bank,1,53,Electronics,Lucknow
+14555964,Pranay Chowdhury,Reliance Digital,10-06-2024,23700,Critical,Card Not Present,Gujarat,Amex,Federal Bank,0,92,Transportation,Jaipur
+82762674,Chirag Majumdar,Big Bazaar,12-05-2024,5273,Medium,Card Not Present,Karnataka,Visa,Federal Bank,1,68,Electronics,Chennai
+14067224,Purab Bora,Zomato,28-07-2024,14572,High,Identity Theft,Maharashtra,Amex,Federal Bank,0,91,Transportation,Lucknow
+62814476,Kashvi Hegde,Myntra,11-10-2024,7532,Low,Account Takeover,Karnataka,Visa,Yes Bank,1,56,Groceries,Jaipur
+59683408,Stuvan Viswanathan,Tata Cliq,11-05-2024,531,Low,Identity Theft,Telangana,Amex,Yes Bank,0,61,Transportation,Bangalore
+54062470,Kismat Dubey,Flipkart,12-10-2024,12992,High,Card Not Present,Gujarat,Mastercard,SBI,0,61,Groceries,Bangalore
+33428261,Raunak Sridhar,Myntra,23-05-2024,18548,Low,Card Not Present,Gujarat,Amex,Kotak Bank,0,62,Apparel,Kochi
+15839257,Onkar Gera,Myntra,05-11-2024,3692,Medium,Account Takeover,Rajasthan,Mastercard,Axis Bank,0,28,Groceries,Jaipur
+19550178,Oorja Khanna,Zomato,16-10-2024,4134,Medium,Account Takeover,Rajasthan,Visa,HDFC Bank,0,55,Transportation,Kolkata
+54727070,Vivaan Rege,Big Bazaar,22-01-2024,4935,Critical,Account Takeover,Maharashtra,Amex,Yes Bank,0,94,Apparel,Bangalore
+11890055,Umang Dayal,Amazon India,29-03-2024,17093,High,Card Not Present,Uttar Pradesh,Mastercard,Kotak Bank,0,21,Transportation,Kochi
+24122962,Rohan Ghose,Myntra,12-09-2024,7208,Low,Phishing,Rajasthan,Visa,Kotak Bank,0,33,E-commerce,Kochi
+17341608,Anay Butala,Lifestyle,18-12-2023,11235,Critical,Phishing,Gujarat,Amex,Federal Bank,0,29,Groceries,Hyderabad
+48659992,Riaan Bora,Tata Cliq,01-12-2024,23968,Low,Identity Theft,Kerala,Amex,SBI,0,46,E-commerce,Lucknow
+82163090,Faiyaz Goda,Myntra,26-08-2024,19838,Low,Card Skimming,Kerala,Mastercard,Andhra Bank,1,18,Electronics,Ahmedabad
+96185806,Dharmajan Tandon,Amazon India,24-07-2024,4165,High,Card Skimming,Kerala,Visa,HDFC Bank,1,75,Food Delivery,Lucknow
+27163175,Ryan Rastogi,Lifestyle,18-06-2024,19523,High,Identity Theft,Tamil Nadu,Amex,Andhra Bank,1,24,E-commerce,Mumbai
+25986512,Jayesh Dugar,Swiggy,12-05-2024,8782,Low,Card Not Present,West Bengal,Visa,Bank of Baroda,1,64,Groceries,Bangalore
+68829275,Alia Sinha,Myntra,10-10-2024,13928,Low,Card Not Present,Telangana,Rupay,Yes Bank,1,71,Food Delivery,Lucknow
+31569645,Anika Datta,Flipkart,23-08-2024,10383,Medium,Phishing,West Bengal,Rupay,HDFC Bank,0,83,Transportation,Chennai
+13646961,Vivaan Baria,Lifestyle,23-12-2023,6759,Low,Card Not Present,Uttar Pradesh,Visa,Bank of Baroda,0,69,Groceries,Hyderabad
+36775224,Shamik Banik,Uber,19-05-2024,23692,Low,Card Not Present,Karnataka,Visa,SBI,1,39,Electronics,Kochi
+92955006,Vardaniya Bava,Reliance Digital,24-12-2023,21502,Low,Account Takeover,Delhi,Rupay,Yes Bank,0,86,Apparel,Ahmedabad
+77634603,Vritika Rajagopal,Uber,08-10-2024,10434,Low,Card Not Present,Uttar Pradesh,Visa,Andhra Bank,0,73,Electronics,Chennai
+12355936,Vidur Shanker,Amazon India,18-04-2024,5637,Critical,Identity Theft,Maharashtra,Visa,SBI,0,41,Apparel,Mumbai
+66384410,Rati Sahota,Big Bazaar,08-02-2024,318,High,Card Not Present,Karnataka,Amex,ICICI Bank,0,84,Apparel,Jaipur
+86824273,Anahi Basu,Big Bazaar,25-05-2024,6301,High,Phishing,Maharashtra,Visa,Yes Bank,0,17,Electronics,Lucknow
+10953387,Mishti Subramanian,Swiggy,11-03-2024,4958,Low,Card Not Present,Telangana,Rupay,Axis Bank,1,74,Groceries,Lucknow
+34898433,Yakshit Sule,Uber,25-08-2024,7135,Medium,Card Skimming,Telangana,Mastercard,Axis Bank,1,13,Transportation,Bangalore
+33693698,Hazel Rau,Reliance Digital,04-07-2024,6126,Low,Card Skimming,Maharashtra,Rupay,ICICI Bank,1,58,E-commerce,Ahmedabad
+57786210,Yasmin Andra,Swiggy,22-03-2024,23061,High,Card Skimming,Maharashtra,Rupay,HDFC Bank,0,44,Transportation,Bangalore
+93278304,Yasmin Shankar,Zomato,26-10-2024,17676,Medium,Card Not Present,Gujarat,Rupay,Yes Bank,0,84,Groceries,Hyderabad
+68007802,Damini Swamy,Lifestyle,10-12-2024,22515,Low,Phishing,West Bengal,Rupay,Yes Bank,0,26,Groceries,Chennai
+46373337,Kimaya Mane,Flipkart,20-07-2024,1238,High,Card Skimming,West Bengal,Mastercard,Bank of Baroda,0,32,Food Delivery,Jaipur
+64437920,Manjari Bobal,Zomato,25-03-2024,24776,Low,Card Not Present,Tamil Nadu,Visa,Federal Bank,1,83,Electronics,Bangalore
+96541868,Yasmin Tiwari,Reliance Digital,24-03-2024,5378,Medium,Phishing,Karnataka,Mastercard,Federal Bank,0,74,Electronics,Lucknow
+33074047,Anya Saraf,Big Bazaar,04-06-2024,4441,Medium,Identity Theft,Uttar Pradesh,Amex,Bank of Baroda,0,34,Apparel,Mumbai
+23078924,Zain Ravel,Zomato,21-08-2024,973,Low,Account Takeover,Gujarat,Amex,ICICI Bank,1,17,Apparel,Bangalore
+13320343,Kanav Chada,Amazon India,02-12-2024,20511,High,Card Not Present,Rajasthan,Rupay,SBI,1,39,Food Delivery,Ahmedabad
+26015624,Tara Gara,Zomato,27-06-2024,20383,Low,Identity Theft,Maharashtra,Mastercard,Axis Bank,1,62,Apparel,Kochi
+16941618,Ahana  Balay,Swiggy,05-06-2024,3230,Medium,Phishing,West Bengal,Visa,Andhra Bank,1,78,Transportation,Hyderabad
+48985230,Vivaan Vasa,Lifestyle,15-09-2024,11329,Medium,Account Takeover,Uttar Pradesh,Rupay,Andhra Bank,1,12,Transportation,Kochi
+40208479,Fateh Ravel,Lifestyle,05-04-2024,8873,Low,Card Not Present,Maharashtra,Amex,Yes Bank,0,87,Transportation,Kolkata
+97672761,Kaira Gara,Flipkart,06-12-2024,7138,Critical,Identity Theft,Kerala,Rupay,Andhra Bank,1,89,Electronics,Lucknow
+67393558,Amani Sunder,Reliance Digital,01-12-2024,23647,Critical,Card Not Present,Maharashtra,Rupay,Bank of Baroda,1,92,E-commerce,Mumbai
+70673414,Ivan Ganesan,Swiggy,14-01-2024,5010,Medium,Card Not Present,West Bengal,Visa,Bank of Baroda,1,42,Electronics,Ahmedabad
+53907774,Zain Dave,Myntra,09-04-2024,19565,Medium,Identity Theft,Uttar Pradesh,Visa,HDFC Bank,1,19,E-commerce,Lucknow
+25618585,Kashvi Jani,Myntra,18-11-2024,15194,High,Card Skimming,West Bengal,Mastercard,Bank of Baroda,0,91,Apparel,Jaipur
+49952714,Stuvan Thaman,Lifestyle,29-10-2024,21367,High,Identity Theft,West Bengal,Mastercard,ICICI Bank,0,60,Apparel,Kolkata
+21455564,Uthkarsh Trivedi,Lifestyle,13-06-2024,11290,Medium,Card Not Present,Karnataka,Visa,ICICI Bank,1,78,Apparel,Lucknow
+90378470,Samar Iyengar,Myntra,16-10-2024,4686,Low,Phishing,Uttar Pradesh,Visa,Kotak Bank,0,22,E-commerce,Mumbai
+97093402,Azad Dara,Tata Cliq,27-01-2024,14448,Low,Card Not Present,Gujarat,Mastercard,Yes Bank,1,76,Apparel,Hyderabad
+57433363,Ela Rajagopal,Myntra,02-01-2024,16059,Medium,Card Skimming,Uttar Pradesh,Amex,SBI,0,12,Electronics,Delhi
+47216748,Riaan Randhawa,Big Bazaar,02-10-2024,551,Low,Card Skimming,Delhi,Rupay,Yes Bank,1,14,Transportation,Chennai
+25234983,Kashvi Shenoy,Lifestyle,09-07-2024,24759,Critical,Account Takeover,Uttar Pradesh,Amex,HDFC Bank,1,44,Apparel,Kochi
+79606426,Myra Walla,Tata Cliq,20-05-2024,1650,Critical,Account Takeover,Karnataka,Rupay,ICICI Bank,0,24,E-commerce,Bangalore
+69953765,Divit Jha,Tata Cliq,29-11-2024,15953,Low,Identity Theft,West Bengal,Rupay,ICICI Bank,1,84,Groceries,Bangalore
+74724626,Jivika Gala,Flipkart,04-02-2024,2850,Medium,Card Skimming,Rajasthan,Visa,Bank of Baroda,0,20,Groceries,Mumbai
+23320415,Tara Kar,Reliance Digital,10-01-2024,2034,Low,Card Skimming,Tamil Nadu,Mastercard,Bank of Baroda,0,58,Groceries,Kochi
+28699276,Keya Bir,Myntra,05-11-2024,596,Low,Account Takeover,Tamil Nadu,Mastercard,Kotak Bank,0,78,Food Delivery,Chennai
+63738281,Nishith Rau,Tata Cliq,07-06-2024,24907,Low,Phishing,Maharashtra,Mastercard,Bank of Baroda,0,88,Transportation,Chennai
+96561824,Nishith Jayaraman,Zomato,07-12-2024,20890,High,Account Takeover,Karnataka,Amex,Yes Bank,1,28,Apparel,Hyderabad
+14652085,Zain Sharaf,Myntra,09-08-2024,1369,Low,Card Not Present,Telangana,Visa,Bank of Baroda,0,21,Food Delivery,Bangalore
+27327733,Diya Dey,Myntra,08-09-2024,21399,Low,Identity Theft,Uttar Pradesh,Rupay,Axis Bank,0,72,Transportation,Delhi
+39352122,Ahana  Savant,Swiggy,12-06-2024,4073,Low,Card Not Present,Telangana,Rupay,Federal Bank,0,69,Food Delivery,Delhi
+43384840,Uthkarsh Dayal,Reliance Digital,26-03-2024,22618,High,Account Takeover,Kerala,Mastercard,Federal Bank,0,22,Transportation,Ahmedabad
+42927918,Stuvan Dube,Big Bazaar,03-07-2024,23364,Low,Account Takeover,West Bengal,Amex,Andhra Bank,1,88,Food Delivery,Mumbai
+14787756,Aradhya Gandhi,Big Bazaar,17-03-2024,24084,High,Identity Theft,Karnataka,Amex,Andhra Bank,1,51,Food Delivery,Delhi
+22305247,Nakul Savant,Lifestyle,26-03-2024,2419,Medium,Identity Theft,Tamil Nadu,Visa,Bank of Baroda,1,31,Apparel,Jaipur
+36763224,Rania Basak,Myntra,23-02-2024,11117,High,Phishing,Rajasthan,Rupay,HDFC Bank,0,12,Apparel,Hyderabad
+15825703,Yakshit Butala,Flipkart,06-08-2024,14813,Medium,Card Not Present,Tamil Nadu,Visa,Bank of Baroda,1,79,E-commerce,Kochi
+15498019,Divij Master,Swiggy,13-06-2024,4166,Medium,Account Takeover,Maharashtra,Rupay,Yes Bank,0,39,Transportation,Kochi
+70225559,Aayush Keer,Swiggy,09-05-2024,3626,Low,Phishing,Gujarat,Visa,ICICI Bank,0,62,Transportation,Hyderabad
+41884523,Pari Mandal,Uber,26-04-2024,8990,High,Identity Theft,Delhi,Visa,HDFC Bank,1,62,E-commerce,Lucknow
+75584444,Kashvi Bera,Swiggy,18-02-2024,23047,Critical,Phishing,Rajasthan,Rupay,Federal Bank,0,92,E-commerce,Mumbai
+82591057,Mahika Karpe,Lifestyle,12-10-2024,12667,Medium,Account Takeover,Tamil Nadu,Rupay,Yes Bank,0,94,Groceries,Ahmedabad
+35333702,Nirvi Ravel,Flipkart,13-08-2024,18736,Critical,Card Skimming,Rajasthan,Mastercard,ICICI Bank,0,20,Electronics,Chennai
+20677237,Khushi Kapur,Flipkart,30-04-2024,7369,Low,Card Skimming,Kerala,Mastercard,Andhra Bank,1,95,Apparel,Chennai
+74831665,Ela Bhandari,Uber,25-03-2024,23640,Medium,Phishing,Delhi,Mastercard,Andhra Bank,0,50,E-commerce,Lucknow
+64168334,Kaira Chahal,Myntra,21-07-2024,9640,Medium,Account Takeover,Maharashtra,Amex,Bank of Baroda,1,85,Food Delivery,Bangalore
+37493871,Ishita Hegde,Myntra,07-05-2024,3816,Low,Identity Theft,Rajasthan,Visa,Federal Bank,0,27,E-commerce,Kochi
+54838803,Shayak Sridhar,Tata Cliq,29-11-2024,6736,Low,Phishing,Delhi,Amex,Federal Bank,0,61,Groceries,Chennai
+63675758,Mannat Banik,Big Bazaar,10-05-2024,12284,High,Phishing,Kerala,Rupay,ICICI Bank,0,65,Apparel,Delhi
+83013890,Divij Dubey,Lifestyle,07-11-2024,23062,Critical,Card Skimming,Karnataka,Mastercard,ICICI Bank,0,88,Food Delivery,Chennai
+12901584,Rania Subramanian,Tata Cliq,28-09-2024,8817,Low,Account Takeover,Kerala,Rupay,ICICI Bank,0,65,E-commerce,Kolkata
+81236827,Nitara Rastogi,Swiggy,22-03-2024,4217,Low,Phishing,Telangana,Visa,Bank of Baroda,0,67,E-commerce,Mumbai
+76394894,Riaan Kala,Tata Cliq,03-03-2024,685,High,Identity Theft,Gujarat,Visa,Federal Bank,1,57,Electronics,Mumbai
+22461051,Lagan Dara,Myntra,19-11-2024,6939,High,Card Skimming,Tamil Nadu,Amex,SBI,0,51,Electronics,Jaipur
+22255747,Dishani Suri,Zomato,08-08-2024,19029,Medium,Card Not Present,West Bengal,Visa,Yes Bank,0,94,Transportation,Jaipur
+45757297,Gokul Chakraborty,Myntra,16-02-2024,1814,Medium,Identity Theft,Rajasthan,Rupay,HDFC Bank,0,64,Transportation,Chennai
+22906170,Samar Seshadri,Amazon India,18-05-2024,12442,High,Phishing,Karnataka,Visa,Yes Bank,0,23,Transportation,Kochi
+38777044,Aarush Zacharia,Lifestyle,28-11-2024,4177,High,Identity Theft,Karnataka,Visa,Kotak Bank,0,13,Electronics,Kochi
+18998879,Keya Srinivasan,Big Bazaar,14-09-2024,7483,Low,Identity Theft,Tamil Nadu,Visa,Federal Bank,1,62,E-commerce,Mumbai
+53870911,Jayant Badami,Flipkart,22-01-2024,8738,Medium,Account Takeover,Telangana,Visa,Yes Bank,0,95,Food Delivery,Jaipur
+88342477,Shalv Gola,Lifestyle,03-07-2024,13134,High,Phishing,Kerala,Amex,Andhra Bank,0,57,E-commerce,Delhi
+34618820,Aradhya Borde,Amazon India,07-02-2024,6254,Medium,Card Not Present,Tamil Nadu,Amex,Andhra Bank,0,20,Food Delivery,Hyderabad
+69235451,Aarav Chopra,Uber,30-05-2024,1653,Medium,Phishing,Maharashtra,Mastercard,SBI,1,54,Food Delivery,Mumbai
+12034649,Heer Kota,Amazon India,30-07-2024,4280,Critical,Account Takeover,Rajasthan,Mastercard,ICICI Bank,0,19,Apparel,Bangalore
+72762697,Devansh Sant,Amazon India,02-05-2024,405,Medium,Phishing,Uttar Pradesh,Amex,SBI,0,18,E-commerce,Kochi
+22864133,Darshit Majumdar,Myntra,02-05-2024,5586,Medium,Phishing,Kerala,Amex,ICICI Bank,0,43,Electronics,Bangalore
+95769790,Nayantara Thaman,Big Bazaar,14-06-2024,16737,Low,Phishing,Karnataka,Mastercard,ICICI Bank,0,49,Apparel,Delhi
+53323716,Dhanush Khosla,Myntra,22-04-2024,23056,Low,Account Takeover,Gujarat,Visa,Kotak Bank,0,65,Transportation,Hyderabad
+28718652,Nitara Thaker,Amazon India,14-12-2024,12047,Medium,Identity Theft,Rajasthan,Mastercard,Axis Bank,1,65,Transportation,Kolkata
+86847116,Nehmat Suresh,Zomato,10-12-2024,21345,High,Phishing,Karnataka,Amex,SBI,0,12,Transportation,Hyderabad
+31915073,Eshani Bala,Swiggy,05-04-2024,3902,Medium,Card Not Present,Gujarat,Mastercard,HDFC Bank,0,14,Groceries,Bangalore
+70426182,Seher Karnik,Big Bazaar,08-07-2024,10174,Critical,Card Skimming,Tamil Nadu,Visa,Andhra Bank,0,83,Apparel,Bangalore
+19744223,Nitara Zachariah,Swiggy,03-04-2024,774,Critical,Phishing,Delhi,Amex,HDFC Bank,0,77,Electronics,Ahmedabad
+94653682,Dharmajan Raju,Reliance Digital,16-01-2024,15042,Medium,Phishing,Tamil Nadu,Amex,Federal Bank,0,54,Apparel,Lucknow
+85995240,Indrans Anand,Myntra,04-06-2024,4239,Medium,Phishing,Kerala,Mastercard,HDFC Bank,0,21,Transportation,Lucknow
+46368627,Anika Sane,Uber,28-11-2024,18959,Low,Card Not Present,Gujarat,Visa,Kotak Bank,1,83,Apparel,Bangalore
+88151482,Azad Agrawal,Tata Cliq,01-08-2024,21528,High,Identity Theft,Delhi,Visa,Bank of Baroda,0,44,Electronics,Hyderabad
+39189630,Ayesha Korpal,Myntra,25-08-2024,16250,High,Card Not Present,West Bengal,Visa,Axis Bank,1,74,Food Delivery,Kochi
+61537820,Divij Mangat,Zomato,19-10-2024,19002,Medium,Phishing,Telangana,Amex,ICICI Bank,0,92,Food Delivery,Hyderabad
+82002595,Siya Goswami,Flipkart,13-06-2024,11604,Low,Identity Theft,Maharashtra,Rupay,SBI,0,67,E-commerce,Bangalore
+91507913,Priyansh Chandra,Tata Cliq,26-04-2024,10560,Medium,Card Not Present,Maharashtra,Visa,Kotak Bank,0,18,Electronics,Ahmedabad
+39547838,Parinaaz Bhasin,Zomato,02-03-2024,7799,Medium,Card Not Present,Uttar Pradesh,Visa,Andhra Bank,0,60,Electronics,Bangalore
+81365126,Drishya Bedi,Uber,30-05-2024,24571,High,Phishing,Rajasthan,Rupay,ICICI Bank,0,93,Apparel,Jaipur
+87649430,Lagan Karan,Uber,13-04-2024,8937,Medium,Card Not Present,Tamil Nadu,Mastercard,HDFC Bank,0,69,Transportation,Bangalore
+61414476,Jivin Sandhu,Swiggy,06-05-2024,23681,Critical,Identity Theft,Karnataka,Amex,SBI,0,88,Apparel,Delhi
+99425096,Shaan Sant,Swiggy,07-05-2024,17379,Low,Account Takeover,Maharashtra,Amex,HDFC Bank,0,52,Transportation,Kochi
+89284885,Kashvi Dada,Reliance Digital,08-04-2024,10328,Medium,Identity Theft,Tamil Nadu,Amex,Andhra Bank,0,26,Groceries,Bangalore
+95752087,Pihu Chhabra,Big Bazaar,21-02-2024,14395,Medium,Card Not Present,Telangana,Mastercard,ICICI Bank,1,40,Electronics,Bangalore
+14011955,Ishaan Bhalla,Tata Cliq,15-11-2024,22345,Low,Card Skimming,Telangana,Visa,ICICI Bank,1,46,Electronics,Mumbai
+84483809,Dishani Kanda,Tata Cliq,26-02-2024,2072,Medium,Phishing,Gujarat,Visa,Federal Bank,0,83,Food Delivery,Hyderabad
+90482479,Samiha Sarma,Zomato,20-02-2024,3377,Medium,Phishing,Tamil Nadu,Mastercard,Bank of Baroda,0,26,Food Delivery,Bangalore
+57653865,Samar Vala,Amazon India,29-09-2024,16820,Low,Identity Theft,Gujarat,Mastercard,ICICI Bank,0,18,Electronics,Delhi
+46719791,Chirag Dutta,Flipkart,30-08-2024,3214,Critical,Card Skimming,Kerala,Amex,Kotak Bank,0,45,Electronics,Kolkata
+55782879,Elakshi Ramesh,Uber,12-02-2024,4651,Medium,Card Not Present,Kerala,Amex,ICICI Bank,0,82,E-commerce,Jaipur
+19369577,Prerak Mani,Lifestyle,22-08-2024,11666,Medium,Card Skimming,Tamil Nadu,Visa,Federal Bank,0,49,Food Delivery,Kolkata
+61969357,Kaira Amble,Tata Cliq,15-09-2024,16460,Low,Account Takeover,Tamil Nadu,Amex,Andhra Bank,0,11,Food Delivery,Kochi
+12068844,Reyansh Wable,Flipkart,07-03-2024,6734,Medium,Account Takeover,Delhi,Visa,Axis Bank,0,41,Apparel,Delhi
+72334336,Mannat Sani,Flipkart,15-05-2024,560,Low,Card Not Present,Uttar Pradesh,Amex,Yes Bank,0,47,Electronics,Bangalore
+53648206,Ojas Sant,Flipkart,30-07-2024,10282,Low,Phishing,Rajasthan,Rupay,Andhra Bank,0,70,Transportation,Mumbai
+74838611,Ritvik Goel,Myntra,19-04-2024,15242,Medium,Account Takeover,West Bengal,Amex,Axis Bank,1,85,Electronics,Ahmedabad
+92869561,Bhavin Deo,Swiggy,16-04-2024,13434,Medium,Account Takeover,Kerala,Mastercard,SBI,0,88,Transportation,Delhi
+64384674,Taran Tripathi,Amazon India,16-06-2024,19675,Low,Identity Theft,West Bengal,Rupay,Bank of Baroda,1,60,E-commerce,Bangalore
+48333941,Armaan Mand,Reliance Digital,02-06-2024,17514,Medium,Identity Theft,Kerala,Mastercard,ICICI Bank,0,90,Food Delivery,Lucknow
+40328186,Yasmin Rajagopalan,Zomato,31-08-2024,12486,Medium,Card Not Present,Rajasthan,Rupay,Kotak Bank,1,26,E-commerce,Kochi
+37484314,Siya Balakrishnan,Uber,03-08-2024,1920,Low,Phishing,Uttar Pradesh,Amex,ICICI Bank,0,17,E-commerce,Lucknow
+38402494,Aarav Vala,Uber,26-02-2024,15753,Medium,Phishing,Delhi,Rupay,Kotak Bank,0,83,Transportation,Hyderabad
+79478882,Darshit Shankar,Swiggy,23-11-2024,6153,Medium,Card Skimming,Maharashtra,Mastercard,Yes Bank,0,62,E-commerce,Chennai
+23385573,Chirag Anne,Flipkart,27-03-2024,15891,High,Card Not Present,West Bengal,Rupay,ICICI Bank,1,60,Groceries,Chennai
+97070178,Zaina Baria,Tata Cliq,10-04-2024,18085,Medium,Phishing,Kerala,Visa,SBI,0,52,Apparel,Lucknow
+32004807,Divit Ahluwalia,Reliance Digital,13-02-2024,23420,Critical,Card Not Present,Delhi,Amex,Federal Bank,0,39,Transportation,Chennai
+41793259,Mohanlal Bahl,Zomato,28-12-2023,12408,High,Card Skimming,Uttar Pradesh,Rupay,Bank of Baroda,0,74,Transportation,Kolkata
+35934817,Vritika Madan,Myntra,06-03-2024,18798,Low,Phishing,Maharashtra,Rupay,ICICI Bank,1,20,Food Delivery,Ahmedabad
+43817969,Neysa Sridhar,Big Bazaar,25-10-2024,24119,High,Card Skimming,Uttar Pradesh,Mastercard,Yes Bank,0,88,Apparel,Bangalore
+23029606,Damini Sarma,Zomato,23-12-2023,5118,Medium,Card Not Present,Karnataka,Rupay,ICICI Bank,0,40,Apparel,Chennai
+21931541,Shanaya Kant,Big Bazaar,21-07-2024,11071,Medium,Card Not Present,Karnataka,Amex,SBI,1,38,E-commerce,Ahmedabad
+25121428,Tushar Bumb,Big Bazaar,12-11-2024,2688,Medium,Card Skimming,Rajasthan,Amex,Axis Bank,0,38,Apparel,Jaipur
+82732667,Hrishita Hayre,Uber,03-08-2024,12716,Medium,Identity Theft,Tamil Nadu,Mastercard,Axis Bank,1,77,E-commerce,Chennai
+55999497,Elakshi Chaudhari,Flipkart,08-06-2024,7665,Low,Card Not Present,Telangana,Rupay,Kotak Bank,0,81,Transportation,Lucknow
+97895403,Nitara Mannan,Uber,22-07-2024,1443,Low,Account Takeover,Kerala,Visa,Kotak Bank,0,67,Groceries,Lucknow
+45688291,Ishita Chacko,Zomato,07-05-2024,8988,Low,Account Takeover,Maharashtra,Visa,Federal Bank,1,50,E-commerce,Hyderabad
+94044978,Biju Dani,Flipkart,21-11-2024,15127,Low,Phishing,Uttar Pradesh,Amex,HDFC Bank,0,84,Electronics,Bangalore
+42270663,Tara Lalla,Reliance Digital,09-10-2024,12347,Critical,Card Skimming,Tamil Nadu,Mastercard,HDFC Bank,0,62,Transportation,Lucknow
+82776552,Lakshit Rout,Lifestyle,02-05-2024,3687,Medium,Card Skimming,Kerala,Amex,SBI,0,38,Apparel,Jaipur
+37143730,Rania Cherian,Swiggy,12-10-2024,8630,Critical,Card Not Present,Rajasthan,Amex,Yes Bank,0,67,Transportation,Bangalore
+49453836,Tarini Suresh,Lifestyle,12-05-2024,4189,Low,Account Takeover,Telangana,Mastercard,Bank of Baroda,0,72,Apparel,Ahmedabad
+85529393,Anaya Srinivasan,Flipkart,04-01-2024,15627,Medium,Card Skimming,Tamil Nadu,Rupay,Federal Bank,0,14,E-commerce,Delhi
+60347967,Vardaniya Batra,Myntra,09-12-2024,18894,Low,Phishing,Tamil Nadu,Mastercard,Federal Bank,0,48,Apparel,Mumbai
+54850380,Vardaniya Gade,Tata Cliq,11-07-2024,12678,Low,Account Takeover,West Bengal,Rupay,Federal Bank,0,94,Apparel,Ahmedabad
+37714624,Vedika Devan,Amazon India,06-05-2024,14058,Low,Identity Theft,Rajasthan,Amex,Kotak Bank,0,27,E-commerce,Delhi
+42833819,Faiyaz Viswanathan,Amazon India,01-05-2024,21611,Low,Card Skimming,Tamil Nadu,Amex,Kotak Bank,0,46,Transportation,Kolkata
+91894939,Vaibhav Kapoor,Zomato,05-03-2024,12172,Low,Card Skimming,Maharashtra,Mastercard,Federal Bank,0,80,E-commerce,Kochi
+55664325,Aarav Kala,Swiggy,14-11-2024,9632,Low,Card Not Present,Telangana,Mastercard,Yes Bank,0,50,Groceries,Lucknow
+13429528,Shamik Apte,Myntra,21-07-2024,4977,High,Phishing,Tamil Nadu,Mastercard,Yes Bank,0,51,Groceries,Mumbai
+61034288,Jivika Srinivasan,Swiggy,30-01-2024,5424,Medium,Account Takeover,Tamil Nadu,Rupay,SBI,0,65,Apparel,Mumbai
+95952347,Amira Devi,Zomato,23-12-2023,11341,Critical,Identity Theft,Telangana,Rupay,Axis Bank,0,68,Electronics,Lucknow
+96130987,Gokul Mammen,Swiggy,18-04-2024,12548,Medium,Card Not Present,Rajasthan,Mastercard,SBI,0,63,Transportation,Mumbai
+80845248,Ehsaan Balan,Uber,25-10-2024,4615,Low,Phishing,Kerala,Amex,HDFC Bank,0,95,Food Delivery,Lucknow
+90217396,Aradhya Bora,Uber,03-12-2024,20294,High,Card Skimming,Gujarat,Visa,SBI,0,56,Apparel,Chennai
+39514509,Prerak Sunder,Zomato,28-02-2024,24003,Low,Identity Theft,Delhi,Visa,SBI,0,27,E-commerce,Jaipur
+27297762,Kanav Taneja,Flipkart,31-05-2024,6040,Medium,Card Not Present,West Bengal,Visa,Axis Bank,0,12,Groceries,Chennai
+20703189,Adira Agrawal,Tata Cliq,06-05-2024,12396,Low,Card Skimming,Gujarat,Visa,Yes Bank,0,78,Groceries,Jaipur
+53773966,Ishita Chawla,Swiggy,12-03-2024,23363,Low,Phishing,Maharashtra,Amex,Kotak Bank,0,64,Food Delivery,Chennai
+76290015,Yashvi Tella,Lifestyle,23-08-2024,15839,Medium,Identity Theft,West Bengal,Mastercard,HDFC Bank,0,38,E-commerce,Bangalore
+70320729,Alisha Wason,Swiggy,03-08-2024,18440,Low,Card Skimming,Uttar Pradesh,Mastercard,HDFC Bank,0,43,Groceries,Hyderabad
+58447473,Divyansh Basu,Uber,05-11-2024,11037,Low,Phishing,Uttar Pradesh,Rupay,Andhra Bank,1,27,Groceries,Bangalore
+49770596,Dharmajan Bhat,Tata Cliq,21-07-2024,23940,Low,Card Not Present,Rajasthan,Rupay,SBI,0,11,Apparel,Kolkata
+34900433,Ahana  Bhatia,Myntra,25-01-2024,2191,Low,Account Takeover,Rajasthan,Visa,HDFC Bank,1,19,Food Delivery,Jaipur
+77585141,Ahana  Dube,Flipkart,27-06-2024,18228,Low,Card Not Present,Gujarat,Visa,Kotak Bank,1,33,E-commerce,Lucknow
+74721679,Vedika Sathe,Big Bazaar,02-09-2024,16523,Low,Card Skimming,Karnataka,Mastercard,Federal Bank,1,68,Apparel,Bangalore
+28022398,Sana Guha,Reliance Digital,19-03-2024,8796,Low,Card Not Present,West Bengal,Mastercard,Bank of Baroda,0,49,Groceries,Lucknow
+66483634,Zaina Dhawan,Lifestyle,06-03-2024,12223,Medium,Identity Theft,Delhi,Rupay,Bank of Baroda,0,80,Apparel,Delhi
+98531924,Rati Mani,Flipkart,04-04-2024,897,Low,Card Not Present,Telangana,Mastercard,Bank of Baroda,1,45,Apparel,Hyderabad
+12739734,Jhanvi Bobal,Flipkart,02-06-2024,11174,Medium,Identity Theft,Telangana,Visa,SBI,1,53,Electronics,Chennai
+57329983,Zain Garg,Myntra,19-03-2024,9368,Medium,Identity Theft,Gujarat,Rupay,HDFC Bank,0,91,Apparel,Bangalore
+12116972,Ehsaan Gola,Swiggy,17-11-2024,20144,Low,Phishing,Gujarat,Rupay,ICICI Bank,0,51,Apparel,Hyderabad
+98290929,Eva Bajwa,Reliance Digital,15-12-2024,10527,Low,Account Takeover,Rajasthan,Mastercard,Federal Bank,0,78,Food Delivery,Ahmedabad
+10116275,Nitya Rattan,Uber,02-07-2024,23844,Low,Card Not Present,Tamil Nadu,Rupay,Yes Bank,0,72,E-commerce,Kolkata
+56529466,Zara Bajwa,Lifestyle,08-06-2024,12457,Critical,Account Takeover,Telangana,Mastercard,SBI,1,19,E-commerce,Bangalore
+52003766,Khushi Jhaveri,Lifestyle,16-02-2024,21940,Low,Card Skimming,Uttar Pradesh,Mastercard,Yes Bank,0,33,Food Delivery,Bangalore
+93058559,Suhana Chada,Reliance Digital,08-08-2024,17528,Medium,Account Takeover,Maharashtra,Amex,Kotak Bank,0,82,Electronics,Hyderabad
+93001468,Madhav Jha,Reliance Digital,10-04-2024,16176,Critical,Card Not Present,Karnataka,Rupay,Federal Bank,0,22,Food Delivery,Chennai
+60226113,Anahi Swamy,Zomato,11-09-2024,1880,Low,Identity Theft,West Bengal,Visa,SBI,1,37,Electronics,Jaipur
+81450681,Chirag Bala,Myntra,21-04-2024,14363,Low,Card Not Present,Karnataka,Amex,Federal Bank,0,39,Groceries,Delhi
+36701532,Baiju Raval,Zomato,01-07-2024,19756,Critical,Card Not Present,Maharashtra,Visa,Federal Bank,0,34,Food Delivery,Kolkata
+77808857,Vidur Kade,Myntra,23-12-2023,14347,Low,Identity Theft,Rajasthan,Visa,Federal Bank,1,23,Apparel,Lucknow
+68820542,Jivin Sawhney,Lifestyle,15-01-2024,10512,Medium,Account Takeover,Maharashtra,Amex,Andhra Bank,0,48,Transportation,Ahmedabad
+50379683,Mamooty Bath,Tata Cliq,24-11-2024,1724,Critical,Card Not Present,West Bengal,Mastercard,Bank of Baroda,0,69,Apparel,Ahmedabad
+12076898,Shlok Wali,Amazon India,09-05-2024,11186,Medium,Phishing,Rajasthan,Visa,Andhra Bank,0,46,E-commerce,Bangalore
+52541363,Abram Dugar,Lifestyle,19-11-2024,18411,Medium,Identity Theft,Karnataka,Rupay,ICICI Bank,0,29,Apparel,Bangalore
+22624632,Eshani Mahal,Zomato,03-05-2024,12800,Medium,Card Skimming,Tamil Nadu,Amex,HDFC Bank,0,90,Apparel,Mumbai
+20071099,Shanaya Khanna,Swiggy,23-06-2024,18579,Low,Account Takeover,Delhi,Rupay,Andhra Bank,0,56,Apparel,Kolkata
+49383293,Ira Sami,Swiggy,01-02-2024,12958,Medium,Card Not Present,Telangana,Mastercard,Andhra Bank,0,66,Apparel,Ahmedabad
+12093001,Divij Rau,Flipkart,25-05-2024,18039,Low,Account Takeover,Karnataka,Visa,Andhra Bank,0,71,Groceries,Hyderabad
+32479653,Biju Ghose,Flipkart,07-11-2024,19160,Low,Identity Theft,Karnataka,Visa,ICICI Bank,0,75,E-commerce,Lucknow
+60403246,Zoya Karan,Amazon India,18-04-2024,19765,High,Account Takeover,Kerala,Visa,Andhra Bank,0,61,Food Delivery,Mumbai
+88043181,Aaina Loyal,Lifestyle,04-10-2024,17024,Low,Card Skimming,Delhi,Amex,Federal Bank,0,10,Food Delivery,Mumbai
+87959519,Parinaaz Sangha,Big Bazaar,21-12-2023,7499,Critical,Identity Theft,Rajasthan,Amex,Axis Bank,1,40,E-commerce,Chennai
+63887302,Hrishita Biswas,Big Bazaar,17-09-2024,18866,Medium,Card Skimming,Delhi,Rupay,Yes Bank,0,31,Apparel,Kolkata
+90240367,Kimaya Mannan,Tata Cliq,05-02-2024,9887,Medium,Card Skimming,Uttar Pradesh,Visa,Andhra Bank,0,81,Apparel,Chennai
+77022854,Myra Karan,Myntra,06-05-2024,7772,Medium,Account Takeover,Tamil Nadu,Rupay,HDFC Bank,0,46,E-commerce,Lucknow
+78613238,Diya Dhawan,Myntra,24-10-2024,22708,High,Identity Theft,Uttar Pradesh,Amex,Yes Bank,0,61,Groceries,Hyderabad
+55421291,Anahi Chand,Lifestyle,18-11-2024,12752,Low,Card Skimming,Delhi,Amex,Kotak Bank,0,59,Groceries,Lucknow
+38766957,Nakul Garde,Lifestyle,15-06-2024,22062,Low,Card Not Present,Kerala,Rupay,Axis Bank,0,80,Apparel,Delhi
+76481352,Eshani Ghose,Flipkart,28-06-2024,7352,High,Identity Theft,Maharashtra,Mastercard,ICICI Bank,1,16,Transportation,Kolkata
+24275215,Diya Bala,Reliance Digital,19-02-2024,21420,Low,Phishing,Maharashtra,Visa,ICICI Bank,0,75,Apparel,Bangalore
+82179115,Kavya Dass,Swiggy,17-06-2024,17577,Low,Card Skimming,Delhi,Mastercard,Andhra Bank,1,69,Groceries,Chennai
+83603030,Akarsh Mangat,Tata Cliq,17-11-2024,10361,Medium,Identity Theft,Telangana,Amex,Axis Bank,1,71,Apparel,Mumbai
+95882123,Jiya Khalsa,Reliance Digital,05-02-2024,6237,Low,Identity Theft,West Bengal,Mastercard,Kotak Bank,0,86,Electronics,Delhi
+91269635,Anaya Bhandari,Amazon India,07-07-2024,11756,High,Identity Theft,Kerala,Visa,Andhra Bank,0,86,E-commerce,Lucknow
+81975179,Taran Dutt,Big Bazaar,06-01-2024,16731,Medium,Phishing,Delhi,Rupay,Yes Bank,0,86,E-commerce,Lucknow
+91052651,Shray Arya,Myntra,26-01-2024,9017,Medium,Card Skimming,Uttar Pradesh,Rupay,Bank of Baroda,0,38,Electronics,Bangalore
+76777106,Yuvraj  Shah,Zomato,17-12-2023,5215,High,Card Skimming,Tamil Nadu,Visa,Axis Bank,1,88,E-commerce,Kochi
+80451053,Zara Deol,Zomato,07-05-2024,1062,High,Card Skimming,West Bengal,Amex,Axis Bank,1,17,E-commerce,Kolkata
+80481977,Badal Atwal,Swiggy,02-08-2024,5852,High,Card Not Present,Delhi,Visa,Kotak Bank,0,27,Food Delivery,Hyderabad
+82032217,Farhan Setty,Amazon India,16-04-2024,15847,Low,Identity Theft,West Bengal,Mastercard,Bank of Baroda,1,29,Food Delivery,Ahmedabad
+77310744,Indrans Madan,Tata Cliq,10-10-2024,12157,Low,Phishing,Gujarat,Mastercard,Andhra Bank,1,62,Transportation,Lucknow
+47503865,Nitara Batra,Flipkart,22-06-2024,10578,Medium,Identity Theft,Tamil Nadu,Rupay,SBI,1,49,Transportation,Chennai
+69264315,Vivaan Solanki,Lifestyle,06-10-2024,13228,Medium,Identity Theft,Telangana,Amex,Yes Bank,0,87,Groceries,Mumbai
+41287373,Jayan Kaur,Amazon India,21-06-2024,11592,Low,Card Not Present,Karnataka,Amex,Kotak Bank,1,16,Electronics,Mumbai
+13346982,Alisha Hegde,Zomato,26-03-2024,16657,Critical,Identity Theft,Kerala,Mastercard,Kotak Bank,0,87,Electronics,Jaipur
+47944420,Anahita Ganesan,Myntra,30-08-2024,9485,Low,Account Takeover,Telangana,Mastercard,Yes Bank,0,10,Transportation,Hyderabad
+71496213,Samaira Rau,Zomato,28-05-2024,13370,Medium,Account Takeover,West Bengal,Mastercard,Federal Bank,0,35,Transportation,Kolkata
+32599662,Taimur Apte,Uber,28-06-2024,21129,Medium,Account Takeover,Kerala,Amex,Andhra Bank,0,21,Electronics,Kolkata
+48483340,Pihu Dora,Myntra,14-10-2024,15727,High,Identity Theft,Karnataka,Amex,Bank of Baroda,1,84,Groceries,Lucknow
+42067822,Urvi Uppal,Myntra,13-10-2024,23124,Medium,Account Takeover,Uttar Pradesh,Visa,Yes Bank,0,83,Food Delivery,Kolkata
+16525667,Yuvraj  Chada,Zomato,06-01-2024,20090,Critical,Account Takeover,Gujarat,Amex,Axis Bank,1,89,Apparel,Ahmedabad
+82279791,Keya Balay,Swiggy,21-11-2024,19252,Low,Card Not Present,Maharashtra,Rupay,SBI,1,94,Food Delivery,Jaipur
+53891024,Arhaan Rout,Zomato,17-01-2024,6270,Low,Identity Theft,Gujarat,Rupay,Yes Bank,0,74,Groceries,Kochi
+20281851,Tejas Ray,Flipkart,12-02-2024,180,Critical,Phishing,Rajasthan,Rupay,Bank of Baroda,0,95,Food Delivery,Mumbai
+18389557,Akarsh D’Alia,Big Bazaar,26-03-2024,3806,Medium,Card Skimming,Rajasthan,Amex,HDFC Bank,1,93,Transportation,Kolkata
+68179256,Tanya Swaminathan,Flipkart,17-02-2024,10835,Low,Phishing,Karnataka,Mastercard,Federal Bank,1,49,Electronics,Chennai
+31493804,Himmat Raj,Lifestyle,26-06-2024,21884,High,Identity Theft,West Bengal,Rupay,Axis Bank,0,40,Food Delivery,Delhi
+83427419,Myra Vala,Tata Cliq,21-05-2024,11920,High,Phishing,Maharashtra,Amex,Yes Bank,1,18,E-commerce,Kolkata
+95573178,Shalv Sarin,Tata Cliq,15-07-2024,4068,Low,Card Not Present,Delhi,Mastercard,HDFC Bank,1,21,Transportation,Lucknow
+83660005,Misha Karan,Lifestyle,21-01-2024,12282,Medium,Card Not Present,West Bengal,Mastercard,Bank of Baroda,0,23,Food Delivery,Mumbai
+18331510,Nirvaan Varty,Myntra,17-09-2024,4345,Low,Card Skimming,West Bengal,Mastercard,HDFC Bank,0,38,Food Delivery,Chennai
+51866629,Aniruddh Raj,Flipkart,27-04-2024,3353,Low,Identity Theft,West Bengal,Visa,Andhra Bank,0,58,Food Delivery,Delhi
+38943483,Anvi Venkatesh,Myntra,11-07-2024,14235,Low,Card Not Present,Maharashtra,Mastercard,Yes Bank,0,42,E-commerce,Jaipur
+96013243,Zain Bahl,Tata Cliq,29-08-2024,2622,High,Phishing,Telangana,Visa,Yes Bank,0,79,Electronics,Hyderabad
+49372632,Rania Krish,Flipkart,09-04-2024,16363,Low,Phishing,Gujarat,Amex,ICICI Bank,0,68,Food Delivery,Hyderabad
+92704665,Nayantara Butala,Swiggy,17-01-2024,24002,Low,Account Takeover,Uttar Pradesh,Rupay,Yes Bank,0,38,Groceries,Delhi
+57761872,Gatik Lala,Reliance Digital,22-08-2024,21678,Low,Card Not Present,Gujarat,Rupay,Kotak Bank,1,68,Apparel,Bangalore
+28048463,Nayantara Manda,Reliance Digital,05-02-2024,3067,Critical,Card Not Present,Telangana,Visa,ICICI Bank,1,38,Apparel,Jaipur
+63624162,Abram Sinha,Myntra,10-05-2024,20794,Medium,Identity Theft,Uttar Pradesh,Mastercard,Kotak Bank,1,63,Apparel,Kochi
+29573000,Gatik Sura,Myntra,31-01-2024,19948,Medium,Account Takeover,Delhi,Amex,Andhra Bank,0,65,Food Delivery,Kolkata
+27458335,Shayak Bhavsar,Reliance Digital,12-10-2024,20667,Medium,Card Skimming,Gujarat,Visa,HDFC Bank,0,53,Transportation,Bangalore
+64199193,Renee Raval,Flipkart,16-09-2024,7872,High,Phishing,Gujarat,Amex,Kotak Bank,0,43,Transportation,Bangalore
+36827337,Vanya Dara,Swiggy,04-03-2024,1117,Medium,Identity Theft,West Bengal,Mastercard,SBI,1,76,Groceries,Delhi
+91094131,Rohan Shanker,Big Bazaar,20-02-2024,21078,Medium,Card Skimming,Maharashtra,Rupay,ICICI Bank,1,73,Food Delivery,Jaipur
+41177201,Saira Babu,Lifestyle,12-10-2024,3727,Low,Account Takeover,Uttar Pradesh,Mastercard,Andhra Bank,0,63,Apparel,Delhi
+29170605,Himmat Sastry,Uber,08-03-2024,19893,Low,Identity Theft,Karnataka,Visa,Kotak Bank,0,25,E-commerce,Kochi
+47882218,Charvi Subramaniam,Lifestyle,17-02-2024,12304,Low,Card Skimming,Telangana,Visa,HDFC Bank,0,27,Transportation,Mumbai
+14870479,Tanya Sengupta,Myntra,07-05-2024,1762,High,Phishing,Telangana,Visa,Axis Bank,1,20,E-commerce,Mumbai
+45380272,Himmat Dey,Big Bazaar,13-08-2024,16089,Low,Card Not Present,Tamil Nadu,Mastercard,Bank of Baroda,1,19,Food Delivery,Delhi
+18887213,Tarini Biswas,Reliance Digital,25-04-2024,10891,Low,Card Not Present,Uttar Pradesh,Rupay,Axis Bank,0,16,Food Delivery,Ahmedabad
+46325671,Oorja Yadav,Lifestyle,04-11-2024,20624,Medium,Card Skimming,Rajasthan,Rupay,Yes Bank,0,70,Groceries,Chennai
+94879573,Amira Baral,Big Bazaar,17-12-2023,8454,Critical,Card Skimming,Uttar Pradesh,Visa,Andhra Bank,0,62,Food Delivery,Bangalore
+73400497,Prisha Guha,Flipkart,06-05-2024,18321,Medium,Card Skimming,Delhi,Visa,HDFC Bank,0,52,E-commerce,Kochi
+57496079,Anaya Kumer,Lifestyle,17-12-2023,10793,Low,Phishing,Rajasthan,Rupay,ICICI Bank,0,92,Electronics,Delhi
+40029636,Chirag Balay,Tata Cliq,08-01-2024,10401,High,Account Takeover,Karnataka,Visa,ICICI Bank,1,49,Transportation,Jaipur
+82160957,Purab Manne,Zomato,18-11-2024,10775,Low,Card Not Present,Karnataka,Rupay,HDFC Bank,0,65,Transportation,Ahmedabad
+76793921,Ela Gour,Lifestyle,18-01-2024,8316,High,Card Skimming,Gujarat,Rupay,SBI,0,10,Apparel,Mumbai
+19279621,Oorja Bora,Zomato,18-06-2024,15110,Low,Phishing,Gujarat,Visa,Yes Bank,0,26,Apparel,Chennai
+50816687,Aaryahi Sami,Uber,24-08-2024,8801,Low,Card Skimming,West Bengal,Amex,Kotak Bank,0,69,Food Delivery,Bangalore
+31882664,Alia Kothari,Big Bazaar,13-03-2024,23792,Critical,Card Skimming,Kerala,Rupay,Bank of Baroda,0,10,Groceries,Kolkata
+29671694,Kanav Mahal,Flipkart,03-03-2024,12186,Low,Card Not Present,Maharashtra,Visa,Yes Bank,0,12,Apparel,Ahmedabad
+58675429,Manikya Krishnan,Reliance Digital,16-04-2024,7593,Low,Card Skimming,West Bengal,Rupay,Axis Bank,0,72,E-commerce,Mumbai
+31587238,Misha Grover,Flipkart,04-02-2024,10363,Critical,Card Skimming,Delhi,Amex,HDFC Bank,0,52,Electronics,Kolkata
+22121504,Samiha Reddy,Reliance Digital,18-06-2024,21621,Low,Account Takeover,Rajasthan,Amex,Andhra Bank,1,60,Transportation,Jaipur
+81338162,Vanya Chaudry,Tata Cliq,02-12-2024,18578,Critical,Identity Theft,Delhi,Amex,SBI,1,63,Transportation,Jaipur
+73425853,Hazel Lall,Uber,24-04-2024,11694,Medium,Phishing,Rajasthan,Mastercard,HDFC Bank,1,55,Food Delivery,Lucknow
+21714950,Faiyaz Dutt,Big Bazaar,29-08-2024,23582,High,Card Not Present,Kerala,Mastercard,Kotak Bank,0,85,Electronics,Ahmedabad
+52521022,Trisha Manda,Myntra,16-10-2024,8236,High,Account Takeover,Telangana,Mastercard,ICICI Bank,0,92,Groceries,Bangalore
+58075513,Dhanush Yogi,Reliance Digital,16-07-2024,16401,Medium,Card Not Present,Telangana,Amex,Bank of Baroda,0,79,Electronics,Lucknow
+64858252,Pranay Shukla,Uber,06-02-2024,15285,Low,Card Skimming,Gujarat,Visa,Andhra Bank,0,12,E-commerce,Delhi
+46221163,Hiran Kara,Lifestyle,18-04-2024,3833,Low,Phishing,Telangana,Rupay,Axis Bank,1,92,Electronics,Delhi
+57955001,Amani De,Zomato,16-11-2024,5666,Critical,Identity Theft,Karnataka,Mastercard,Yes Bank,1,38,E-commerce,Bangalore
+97454164,Sahil Dutta,Tata Cliq,01-01-2024,22718,Critical,Identity Theft,Karnataka,Amex,SBI,0,80,Groceries,Hyderabad
+78136034,Neysa Contractor,Lifestyle,28-01-2024,17021,High,Card Not Present,Rajasthan,Mastercard,Andhra Bank,1,24,Food Delivery,Mumbai
+98973711,Hunar Dewan,Swiggy,07-11-2024,12577,Medium,Identity Theft,Kerala,Mastercard,Kotak Bank,1,74,Food Delivery,Lucknow
+92200801,Sahil Sha,Myntra,25-01-2024,4937,Low,Identity Theft,Gujarat,Mastercard,HDFC Bank,0,65,Electronics,Hyderabad
+78545342,Hiran Chhabra,Tata Cliq,03-03-2024,14630,Medium,Phishing,Rajasthan,Rupay,Yes Bank,1,50,Food Delivery,Jaipur
+97841329,Madhup Hari,Uber,23-12-2023,4451,Medium,Account Takeover,Rajasthan,Visa,ICICI Bank,0,23,Groceries,Lucknow
+85377268,Bhamini Rattan,Big Bazaar,15-08-2024,23206,Low,Card Skimming,Uttar Pradesh,Amex,Axis Bank,0,78,Electronics,Kolkata
+63355418,Samarth Kashyap,Tata Cliq,07-05-2024,7005,Low,Card Not Present,Kerala,Visa,Axis Bank,1,13,Transportation,Hyderabad
+57526517,Amani Ganesh,Tata Cliq,12-10-2024,4469,High,Phishing,Uttar Pradesh,Visa,ICICI Bank,1,94,Electronics,Bangalore
+76740429,Armaan Mann,Big Bazaar,16-01-2024,18446,Low,Card Skimming,Tamil Nadu,Mastercard,Kotak Bank,0,25,Food Delivery,Lucknow
+65356976,Sara Bhat,Reliance Digital,24-08-2024,1577,Medium,Card Skimming,Maharashtra,Rupay,Federal Bank,1,62,Food Delivery,Kolkata
+37186316,Manikya Walla,Lifestyle,31-05-2024,23754,Low,Card Skimming,Gujarat,Mastercard,ICICI Bank,0,65,Food Delivery,Lucknow
+68360977,Ishaan Kar,Lifestyle,01-06-2024,20636,Low,Phishing,Gujarat,Rupay,SBI,0,33,Groceries,Chennai
+62089973,Badal Master,Tata Cliq,28-06-2024,4324,High,Account Takeover,Rajasthan,Visa,HDFC Bank,1,70,Apparel,Hyderabad
+63117028,Jiya Johal,Myntra,01-10-2024,4431,Low,Identity Theft,Kerala,Visa,Axis Bank,0,57,Food Delivery,Bangalore
+95672041,Ryan Butala,Uber,06-03-2024,8508,Medium,Phishing,Kerala,Mastercard,ICICI Bank,0,76,Electronics,Ahmedabad
+39138843,Saanvi Samra,Lifestyle,02-06-2024,10544,High,Identity Theft,Telangana,Rupay,Bank of Baroda,0,14,E-commerce,Kolkata
+24571755,Jayan Maharaj,Uber,29-12-2023,7396,Medium,Card Skimming,Rajasthan,Amex,ICICI Bank,1,89,Electronics,Kochi
+94418942,Dhanuk Chowdhury,Amazon India,02-02-2024,3535,High,Account Takeover,Rajasthan,Rupay,Andhra Bank,1,91,Apparel,Mumbai
+28811563,Mehul Sura,Amazon India,31-07-2024,10173,Low,Phishing,Tamil Nadu,Visa,Axis Bank,1,82,Food Delivery,Kolkata
+77488384,Rohan Mann,Zomato,05-04-2024,4198,Medium,Identity Theft,West Bengal,Mastercard,Bank of Baroda,0,90,Food Delivery,Bangalore
+97861968,Gatik Bhalla,Flipkart,23-04-2024,22823,Low,Card Not Present,Gujarat,Amex,Federal Bank,0,23,Groceries,Kochi
+22109498,Anaya Chowdhury,Zomato,20-03-2024,19176,High,Card Not Present,Telangana,Amex,Andhra Bank,0,58,Apparel,Bangalore
+93430625,Adira Kalita,Amazon India,22-02-2024,12041,High,Identity Theft,Karnataka,Rupay,HDFC Bank,0,15,Groceries,Hyderabad
+67890089,Farhan Dayal,Tata Cliq,29-06-2024,11619,Low,Identity Theft,Tamil Nadu,Amex,SBI,1,84,Groceries,Kochi
+19790532,Dhruv Bail,Uber,08-12-2024,16497,Critical,Card Not Present,Kerala,Rupay,HDFC Bank,0,80,Transportation,Hyderabad
+22466907,Amira Goel,Zomato,27-07-2024,23643,Low,Identity Theft,Karnataka,Visa,Kotak Bank,1,69,Apparel,Kolkata
+95940980,Manjari Keer,Flipkart,01-12-2024,9278,High,Card Not Present,Telangana,Rupay,ICICI Bank,0,92,Apparel,Mumbai
+29248809,Romil Kari,Lifestyle,08-07-2024,9573,Critical,Card Skimming,West Bengal,Amex,Kotak Bank,0,44,Electronics,Kochi
+80441406,Lagan Sen,Uber,03-02-2024,6523,Low,Card Not Present,West Bengal,Rupay,SBI,1,62,E-commerce,Ahmedabad
+58034509,Taimur Tank,Uber,12-04-2024,19185,Low,Account Takeover,Delhi,Visa,ICICI Bank,0,74,Transportation,Lucknow
+49968462,Dharmajan Dixit,Swiggy,22-12-2023,16613,Medium,Phishing,Gujarat,Visa,Yes Bank,0,54,Transportation,Jaipur
+95705408,Yakshit Chaudry,Zomato,07-03-2024,1403,Medium,Phishing,Tamil Nadu,Visa,Yes Bank,0,80,Apparel,Kolkata
+73152649,Vidur Rajan,Uber,08-08-2024,11253,High,Phishing,Kerala,Visa,Andhra Bank,1,86,Groceries,Bangalore
+18778131,Advik Bhatt,Flipkart,27-11-2024,20506,Low,Identity Theft,Telangana,Amex,Bank of Baroda,1,88,Food Delivery,Ahmedabad
+56395905,Jiya Sathe,Swiggy,24-07-2024,11454,Medium,Account Takeover,Tamil Nadu,Mastercard,Andhra Bank,0,89,Transportation,Bangalore
+46797288,Ojas Kumer,Tata Cliq,26-09-2024,11992,High,Identity Theft,Uttar Pradesh,Rupay,Kotak Bank,1,40,Food Delivery,Hyderabad
+22950350,Lavanya Borde,Myntra,12-08-2024,11108,Critical,Identity Theft,Delhi,Amex,HDFC Bank,1,85,Food Delivery,Kochi
+79039194,Arhaan Comar,Myntra,25-10-2024,21210,Medium,Identity Theft,Uttar Pradesh,Visa,Axis Bank,1,35,Transportation,Delhi
+90123495,Manjari Andra,Myntra,16-11-2024,4534,Low,Card Skimming,Telangana,Amex,HDFC Bank,0,65,Electronics,Kolkata
+22084603,Zain Atwal,Big Bazaar,20-11-2024,23133,Low,Card Not Present,Karnataka,Mastercard,Axis Bank,0,32,Food Delivery,Kolkata
+96130124,Krish Ghose,Amazon India,18-10-2024,24815,Low,Card Not Present,Uttar Pradesh,Rupay,Yes Bank,1,83,Electronics,Delhi
+35924873,Divyansh Kunda,Amazon India,03-03-2024,12330,Low,Identity Theft,Tamil Nadu,Amex,ICICI Bank,1,41,E-commerce,Mumbai
+47161136,Taran Vasa,Big Bazaar,08-05-2024,23243,High,Phishing,West Bengal,Rupay,Bank of Baroda,0,74,Transportation,Ahmedabad
+99637192,Ritvik Jaggi,Tata Cliq,17-09-2024,6898,Low,Card Skimming,Tamil Nadu,Amex,Federal Bank,0,35,Electronics,Ahmedabad
+99832267,Nitya Viswanathan,Zomato,01-06-2024,15780,Medium,Phishing,Rajasthan,Visa,ICICI Bank,1,68,Transportation,Kochi
+81386473,Azad Bhakta,Flipkart,22-11-2024,10013,Medium,Account Takeover,Telangana,Visa,Kotak Bank,0,63,Electronics,Kolkata
+86279476,Bhamini Sane,Zomato,20-04-2024,15062,Medium,Account Takeover,Gujarat,Amex,Kotak Bank,0,14,Transportation,Kochi
+86139527,Shray Wason,Big Bazaar,21-10-2024,13589,Low,Account Takeover,Telangana,Amex,Axis Bank,0,29,Apparel,Jaipur
+61520502,Bhavin Edwin,Flipkart,03-02-2024,15862,Medium,Card Skimming,Kerala,Amex,Federal Bank,0,84,Apparel,Hyderabad
+67288188,Devansh Gaba,Uber,11-05-2024,17076,Medium,Phishing,West Bengal,Amex,Andhra Bank,0,27,Groceries,Kolkata
+20030226,Ivana Goyal,Zomato,19-06-2024,8815,Low,Card Not Present,Rajasthan,Rupay,Kotak Bank,1,78,Groceries,Delhi
+45339073,Faiyaz Gandhi,Lifestyle,23-11-2024,6267,Low,Account Takeover,Maharashtra,Amex,Kotak Bank,0,15,Transportation,Mumbai
+46574827,Vedika Lal,Amazon India,21-01-2024,17517,Low,Card Not Present,Kerala,Rupay,Yes Bank,0,90,Groceries,Kolkata
+33345455,Aniruddh Shukla,Big Bazaar,24-07-2024,17498,Low,Card Not Present,Gujarat,Visa,Yes Bank,0,28,E-commerce,Bangalore
+93599229,Aniruddh Chowdhury,Myntra,13-08-2024,17843,High,Identity Theft,Gujarat,Amex,Yes Bank,1,60,E-commerce,Ahmedabad
+68226584,Uthkarsh Wagle,Swiggy,24-12-2023,13701,High,Account Takeover,Tamil Nadu,Mastercard,HDFC Bank,0,17,Transportation,Bangalore
+92133314,Mamooty Saha,Amazon India,24-03-2024,4682,Medium,Phishing,Tamil Nadu,Amex,Kotak Bank,0,85,E-commerce,Mumbai
+20025625,Manjari Gera,Lifestyle,21-03-2024,22272,Low,Identity Theft,Uttar Pradesh,Visa,Yes Bank,1,57,Groceries,Chennai
+78357827,Parinaaz Dara,Flipkart,22-05-2024,9433,High,Identity Theft,Delhi,Amex,Kotak Bank,0,49,Transportation,Delhi
+75628843,Devansh Jayaraman,Myntra,21-09-2024,3360,Medium,Card Skimming,Kerala,Rupay,Andhra Bank,1,24,Transportation,Ahmedabad
+18725341,Kabir Bera,Amazon India,22-11-2024,10393,Medium,Card Skimming,Kerala,Mastercard,Axis Bank,0,74,Apparel,Lucknow
+51976755,Pari Lal,Flipkart,06-06-2024,22195,Low,Phishing,Delhi,Amex,Federal Bank,0,19,E-commerce,Bangalore
+97836055,Anvi Bhagat,Amazon India,26-09-2024,22151,Medium,Identity Theft,Uttar Pradesh,Mastercard,SBI,0,15,Groceries,Jaipur
+33055896,Baiju Chokshi,Big Bazaar,01-07-2024,1757,Critical,Card Not Present,Rajasthan,Visa,Bank of Baroda,0,37,Electronics,Hyderabad
+65935965,Veer Iyengar,Reliance Digital,06-12-2024,6419,Low,Account Takeover,Gujarat,Amex,Kotak Bank,1,27,Groceries,Ahmedabad
+39257362,Aaina Bahri,Tata Cliq,06-03-2024,9526,Medium,Card Not Present,Delhi,Amex,SBI,1,17,Electronics,Chennai
+84773723,Nirvaan Dass,Big Bazaar,21-02-2024,13216,Medium,Phishing,West Bengal,Rupay,SBI,0,65,Electronics,Bangalore
+16730991,Mannat Mand,Reliance Digital,23-07-2024,6593,Medium,Identity Theft,Rajasthan,Rupay,ICICI Bank,0,22,Groceries,Kochi
+83808522,Sana Bhatnagar,Flipkart,19-02-2024,23077,Low,Card Skimming,Gujarat,Amex,Federal Bank,0,55,Apparel,Bangalore
+36747250,Renee Walia,Big Bazaar,07-10-2024,12988,Medium,Card Skimming,Maharashtra,Amex,ICICI Bank,0,20,Transportation,Lucknow
+27083114,Dhanush Tella,Swiggy,02-08-2024,14659,High,Card Not Present,Gujarat,Amex,Bank of Baroda,0,73,Food Delivery,Ahmedabad
+57769848,Yakshit Chowdhury,Amazon India,06-09-2024,12748,Low,Card Skimming,Rajasthan,Rupay,HDFC Bank,0,63,Groceries,Mumbai
+58776639,Jivika Cheema,Swiggy,08-04-2024,12265,High,Identity Theft,Maharashtra,Amex,ICICI Bank,1,94,Apparel,Mumbai
+69427779,Bhamini Tella,Uber,25-09-2024,11983,Low,Card Skimming,Maharashtra,Visa,Yes Bank,0,40,Transportation,Kolkata
+47205617,Farhan Vyas,Myntra,16-04-2024,6391,Critical,Identity Theft,West Bengal,Visa,Andhra Bank,0,21,Transportation,Hyderabad
+64096945,Saanvi Dugal,Myntra,09-05-2024,5760,High,Phishing,West Bengal,Amex,Bank of Baroda,1,83,E-commerce,Mumbai
+56030978,Devansh Devi,Zomato,28-12-2023,919,Low,Account Takeover,Gujarat,Rupay,Bank of Baroda,1,25,Transportation,Delhi
+49061138,Madhup Bahl,Flipkart,23-02-2024,11414,Medium,Card Skimming,Telangana,Visa,Andhra Bank,0,40,Food Delivery,Mumbai
+87995417,Lakshit Keer,Swiggy,21-08-2024,23264,Critical,Card Not Present,Gujarat,Visa,SBI,0,45,Groceries,Bangalore
+36608792,Suhana Sarma,Lifestyle,28-06-2024,22626,Low,Phishing,West Bengal,Amex,Bank of Baroda,1,52,E-commerce,Hyderabad
+92815995,Kabir Sangha,Big Bazaar,15-07-2024,13514,High,Account Takeover,Karnataka,Amex,HDFC Bank,1,30,Food Delivery,Kochi
+48840379,Dhanush Dani,Tata Cliq,01-11-2024,24816,High,Card Not Present,Karnataka,Mastercard,Yes Bank,0,94,Apparel,Kolkata
+58077967,Saanvi Ben,Lifestyle,21-12-2023,24050,Low,Phishing,Karnataka,Rupay,Yes Bank,0,69,Transportation,Jaipur
+45877763,Ivan Kannan,Swiggy,24-07-2024,22050,High,Card Not Present,Tamil Nadu,Amex,Andhra Bank,0,47,Transportation,Lucknow
+49422966,Nakul Bala,Zomato,06-06-2024,7965,Low,Phishing,Tamil Nadu,Amex,Kotak Bank,1,64,Electronics,Jaipur
+40344854,Emir Bhatia,Reliance Digital,27-08-2024,14035,Low,Identity Theft,Tamil Nadu,Visa,HDFC Bank,1,61,Transportation,Jaipur
+48518201,Prisha Bumb,Amazon India,13-09-2024,7150,Low,Identity Theft,Telangana,Visa,ICICI Bank,0,13,E-commerce,Kochi
+33093121,Eva Basu,Amazon India,07-12-2024,23597,Low,Card Not Present,Kerala,Amex,ICICI Bank,0,94,Transportation,Chennai
+76184043,Anahita Bedi,Flipkart,02-10-2024,6846,High,Phishing,Uttar Pradesh,Rupay,HDFC Bank,0,20,Electronics,Kolkata
+28991995,Navya Thaker,Reliance Digital,21-07-2024,10947,Medium,Card Not Present,Tamil Nadu,Rupay,HDFC Bank,0,28,E-commerce,Kolkata
+27293877,Saksham Som,Myntra,21-10-2024,11653,Low,Identity Theft,Telangana,Visa,Federal Bank,0,63,Groceries,Mumbai
+56349601,Ritvik Rege,Zomato,08-11-2024,15031,Low,Card Skimming,Kerala,Visa,Bank of Baroda,1,62,Apparel,Hyderabad
+47075519,Inaaya  Krishna,Swiggy,13-12-2024,21851,Medium,Card Skimming,Karnataka,Amex,ICICI Bank,1,57,Groceries,Hyderabad
+73480634,Jiya Balasubramanian,Zomato,24-10-2024,5004,Medium,Phishing,Karnataka,Rupay,Axis Bank,1,17,Apparel,Mumbai
+35310518,Kismat Mall,Myntra,02-02-2024,4642,Medium,Card Not Present,Rajasthan,Rupay,Bank of Baroda,0,16,E-commerce,Delhi
+84628232,Ojas Dave,Uber,16-06-2024,10219,High,Identity Theft,Delhi,Mastercard,HDFC Bank,0,66,Apparel,Jaipur
+76257765,Rati Chacko,Myntra,06-03-2024,3223,Low,Card Not Present,West Bengal,Rupay,SBI,0,54,E-commerce,Bangalore
+80742105,Hazel Sahota,Flipkart,30-12-2023,18187,Medium,Phishing,Tamil Nadu,Amex,Andhra Bank,0,73,Groceries,Jaipur
+36382905,Kaira Sibal,Myntra,18-12-2023,10092,Low,Card Skimming,Kerala,Amex,Kotak Bank,1,23,Transportation,Jaipur
+89595991,Reyansh Ahuja,Reliance Digital,26-12-2023,9361,Medium,Card Not Present,Tamil Nadu,Amex,Kotak Bank,0,54,Transportation,Kochi
+33499029,Nehmat Soni,Flipkart,26-11-2024,20324,High,Account Takeover,Telangana,Amex,Yes Bank,1,74,Groceries,Kochi
+42303312,Indrans Dhawan,Big Bazaar,07-05-2024,15241,Critical,Card Not Present,Delhi,Amex,Axis Bank,0,90,Transportation,Delhi
+64840600,Tushar Lata,Lifestyle,09-03-2024,23695,Medium,Card Skimming,Kerala,Visa,Axis Bank,0,77,Electronics,Ahmedabad
+26623808,Nishith Hegde,Tata Cliq,27-11-2024,4535,High,Identity Theft,Delhi,Visa,Axis Bank,0,48,E-commerce,Bangalore
+85480160,Zeeshan Chowdhury,Flipkart,29-01-2024,4601,Low,Card Not Present,Rajasthan,Mastercard,SBI,1,43,Groceries,Lucknow
+42542415,Kavya Arya,Myntra,09-05-2024,17285,Medium,Card Not Present,West Bengal,Amex,HDFC Bank,0,26,Groceries,Hyderabad
+47492141,Vaibhav Sarkar,Amazon India,08-12-2024,14452,Medium,Card Not Present,Gujarat,Amex,Andhra Bank,0,26,Electronics,Ahmedabad
+60420300,Renee Majumdar,Zomato,02-09-2024,8161,High,Card Skimming,Tamil Nadu,Mastercard,ICICI Bank,0,70,Groceries,Delhi
+18238848,Ojas Andra,Tata Cliq,22-10-2024,6528,Low,Card Not Present,Karnataka,Rupay,Bank of Baroda,0,47,Electronics,Delhi
+97173283,Aaina Saran,Amazon India,07-04-2024,1372,Low,Card Not Present,Gujarat,Visa,Andhra Bank,1,10,Apparel,Kochi
+79411431,Tanya Sundaram,Lifestyle,22-05-2024,4478,Low,Phishing,Tamil Nadu,Mastercard,Andhra Bank,1,74,Food Delivery,Chennai
+12785496,Himmat Vaidya,Lifestyle,09-11-2024,3793,Medium,Card Skimming,Rajasthan,Mastercard,ICICI Bank,0,19,Apparel,Ahmedabad
+87779931,Neelofar Tara,Amazon India,04-04-2024,19588,Medium,Card Not Present,Kerala,Visa,Axis Bank,0,27,Transportation,Kochi
+62701138,Jivin Sarkar,Big Bazaar,24-04-2024,18939,Medium,Phishing,Telangana,Rupay,ICICI Bank,1,12,Food Delivery,Lucknow
+28923849,Anahita Bera,Myntra,10-11-2024,8373,Medium,Account Takeover,Maharashtra,Mastercard,Bank of Baroda,0,56,Transportation,Delhi
+19386380,Prerak Tak,Flipkart,17-04-2024,10049,Low,Card Not Present,Gujarat,Rupay,Axis Bank,0,61,Apparel,Kochi
+79083625,Dharmajan Contractor,Amazon India,11-03-2024,20832,Medium,Phishing,Kerala,Rupay,Axis Bank,0,23,Food Delivery,Kochi
+92670477,Azad Upadhyay,Swiggy,03-06-2024,3270,High,Card Not Present,West Bengal,Rupay,Bank of Baroda,0,83,Groceries,Bangalore
+86419140,Indranil Bhatnagar,Myntra,22-02-2024,7684,Medium,Account Takeover,Karnataka,Rupay,ICICI Bank,0,40,Food Delivery,Bangalore
+41523019,Anahita Bhattacharyya,Myntra,14-06-2024,6853,High,Card Skimming,Kerala,Rupay,Yes Bank,1,75,Groceries,Ahmedabad
+79633301,Kavya Gupta,Tata Cliq,16-07-2024,21001,Low,Card Not Present,Gujarat,Rupay,Andhra Bank,1,37,Electronics,Bangalore
+44719066,Hiran Krish,Swiggy,07-03-2024,21178,Low,Card Not Present,West Bengal,Amex,ICICI Bank,1,74,E-commerce,Kochi
+87026094,Krish Karnik,Lifestyle,09-09-2024,22380,High,Phishing,West Bengal,Mastercard,Axis Bank,0,19,Electronics,Jaipur
+37754644,Jivika Buch,Tata Cliq,23-05-2024,23656,High,Account Takeover,Rajasthan,Rupay,Yes Bank,0,13,Groceries,Hyderabad
+27033994,Rasha Dash,Zomato,09-04-2024,20783,Medium,Card Not Present,Rajasthan,Visa,SBI,0,20,E-commerce,Hyderabad
+52427008,Miraan Warrior,Swiggy,11-10-2024,14677,Low,Identity Theft,Gujarat,Amex,HDFC Bank,1,68,Groceries,Kolkata
+39684259,Vivaan Singhal,Flipkart,25-09-2024,19014,Low,Account Takeover,Kerala,Amex,Yes Bank,0,68,E-commerce,Delhi
+43467568,Saksham Bahri,Reliance Digital,19-03-2024,1304,Low,Card Skimming,Tamil Nadu,Mastercard,Federal Bank,0,72,E-commerce,Hyderabad
+52773264,Vedika Bhavsar,Tata Cliq,08-06-2024,5675,Medium,Identity Theft,Rajasthan,Amex,SBI,0,29,E-commerce,Kochi
+54178667,Ojas Badami,Big Bazaar,12-09-2024,1537,Critical,Card Not Present,Telangana,Mastercard,Yes Bank,1,73,Apparel,Jaipur
+23368263,Shalv Buch,Myntra,22-08-2024,17836,Low,Card Skimming,Maharashtra,Visa,Axis Bank,0,44,Transportation,Bangalore
+47399949,Reyansh Andra,Amazon India,29-01-2024,19966,High,Phishing,West Bengal,Rupay,Bank of Baroda,0,28,Transportation,Bangalore
+47342812,Dharmajan Khare,Big Bazaar,28-07-2024,2401,Medium,Phishing,Rajasthan,Amex,Yes Bank,0,45,Transportation,Mumbai
+17716187,Kaira Jhaveri,Lifestyle,04-03-2024,3613,High,Account Takeover,Maharashtra,Rupay,Bank of Baroda,1,94,Groceries,Mumbai
+40423183,Zoya Walla,Lifestyle,15-07-2024,19333,High,Card Not Present,West Bengal,Visa,HDFC Bank,0,41,Apparel,Lucknow
+63884097,Ishita Dora,Zomato,23-07-2024,12184,Low,Identity Theft,Delhi,Mastercard,Kotak Bank,0,14,E-commerce,Bangalore
+53843916,Renee Lalla,Amazon India,13-06-2024,19484,Low,Phishing,Tamil Nadu,Rupay,Bank of Baroda,0,50,Apparel,Hyderabad
+52014511,Sahil Sheth,Lifestyle,08-12-2024,12610,Medium,Account Takeover,Delhi,Mastercard,Yes Bank,0,20,Groceries,Lucknow
+59397171,Manjari Chada,Big Bazaar,27-09-2024,4669,Critical,Account Takeover,Karnataka,Mastercard,HDFC Bank,1,67,E-commerce,Ahmedabad
+66614536,Eva Rama,Uber,21-11-2024,8294,High,Account Takeover,Delhi,Rupay,Yes Bank,0,83,Groceries,Jaipur
+93663014,Oorja Shanker,Zomato,05-09-2024,21076,Medium,Phishing,Kerala,Mastercard,Bank of Baroda,0,77,Transportation,Kolkata
+94266555,Vritika Bobal,Myntra,13-10-2024,14191,Medium,Phishing,Telangana,Amex,ICICI Bank,0,87,Transportation,Chennai
+92037561,Sara Kakar,Big Bazaar,04-02-2024,935,High,Card Skimming,Delhi,Visa,Andhra Bank,0,49,Electronics,Lucknow
+14827721,Arnav Ramakrishnan,Zomato,07-01-2024,7726,High,Phishing,Delhi,Visa,SBI,1,57,Groceries,Lucknow
+99203257,Jayan Dalal,Uber,19-01-2024,2298,Low,Identity Theft,Maharashtra,Visa,SBI,1,11,Apparel,Kochi
+86500721,Suhana Dasgupta,Lifestyle,19-08-2024,8824,Medium,Card Skimming,Rajasthan,Amex,Axis Bank,0,61,Transportation,Jaipur
+93978655,Ahana  Reddy,Uber,12-11-2024,15027,Medium,Card Not Present,Kerala,Visa,SBI,1,80,Apparel,Kochi
+17763500,Shalv Bahl,Swiggy,08-02-2024,15858,Medium,Card Skimming,Tamil Nadu,Rupay,Andhra Bank,0,47,Transportation,Jaipur
+35808328,Rati Tiwari,Reliance Digital,19-04-2024,13385,Low,Card Not Present,Maharashtra,Visa,HDFC Bank,0,74,Electronics,Hyderabad
+94561054,Lakshit Bumb,Reliance Digital,04-06-2024,16090,Critical,Card Skimming,Delhi,Mastercard,Bank of Baroda,1,38,Food Delivery,Mumbai
+80772767,Miraan Shenoy,Flipkart,25-12-2023,1536,Low,Card Not Present,West Bengal,Visa,Kotak Bank,1,90,Electronics,Chennai
+83235352,Kaira Barman,Amazon India,28-04-2024,19733,High,Card Skimming,Maharashtra,Mastercard,Axis Bank,0,84,E-commerce,Mumbai
+38463078,Zain Edwin,Myntra,31-07-2024,4182,Low,Card Not Present,Tamil Nadu,Visa,ICICI Bank,0,43,Electronics,Kochi
+94608908,Anya Biswas,Big Bazaar,10-04-2024,9825,Low,Identity Theft,West Bengal,Visa,Yes Bank,0,17,Apparel,Bangalore
+44584698,Vidur Sharma,Uber,18-01-2024,4379,Low,Identity Theft,West Bengal,Mastercard,Andhra Bank,0,59,Food Delivery,Lucknow
+46881959,Zeeshan Bansal,Zomato,21-12-2023,7015,Low,Account Takeover,West Bengal,Visa,Kotak Bank,1,46,Food Delivery,Chennai
+78459150,Divij Rajan,Flipkart,14-05-2024,22216,High,Account Takeover,West Bengal,Visa,Kotak Bank,0,22,Apparel,Mumbai
+50439285,Krish Kibe,Tata Cliq,06-12-2024,12730,High,Account Takeover,Uttar Pradesh,Visa,Kotak Bank,1,85,Groceries,Ahmedabad
+26655879,Nirvaan Zacharia,Tata Cliq,20-09-2024,1496,Low,Account Takeover,Rajasthan,Visa,Bank of Baroda,0,27,Food Delivery,Lucknow
+38296444,Rohan Chad,Swiggy,22-07-2024,13094,Medium,Account Takeover,Tamil Nadu,Mastercard,SBI,0,60,Apparel,Ahmedabad
+60568729,Manjari Chada,Tata Cliq,24-04-2024,20781,High,Card Not Present,Delhi,Visa,HDFC Bank,1,90,Transportation,Chennai
+79704405,Navya Sastry,Lifestyle,22-02-2024,8083,Low,Account Takeover,West Bengal,Mastercard,HDFC Bank,0,42,E-commerce,Delhi
+76369314,Nishith Solanki,Uber,26-12-2023,21809,Low,Phishing,Tamil Nadu,Rupay,ICICI Bank,0,25,Groceries,Kochi
+39845026,Zain Sarkar,Lifestyle,10-07-2024,16883,High,Card Skimming,Karnataka,Visa,Yes Bank,0,26,Electronics,Kochi
+90309492,Prerak Kurian,Myntra,21-10-2024,3780,Low,Card Skimming,Delhi,Rupay,Bank of Baroda,0,92,Electronics,Jaipur
+32933549,Kabir Grover,Big Bazaar,16-05-2024,14172,Low,Card Not Present,West Bengal,Visa,Kotak Bank,0,58,Transportation,Delhi
+94935715,Rati Solanki,Flipkart,04-08-2024,16338,Medium,Card Not Present,Delhi,Mastercard,Andhra Bank,1,11,Apparel,Kolkata
+16280115,Bhavin Bera,Reliance Digital,03-03-2024,210,Low,Account Takeover,Maharashtra,Visa,HDFC Bank,1,35,Electronics,Kochi
+25733018,Jhanvi Krish,Tata Cliq,02-08-2024,18031,High,Card Not Present,Maharashtra,Rupay,ICICI Bank,1,92,E-commerce,Hyderabad
+92694849,Biju Shanker,Zomato,04-03-2024,4621,Medium,Phishing,Maharashtra,Visa,Kotak Bank,1,91,E-commerce,Chennai
+72460926,Dhanuk Hegde,Swiggy,07-05-2024,7013,Low,Card Not Present,Gujarat,Rupay,Andhra Bank,0,78,Transportation,Kochi
+37850779,Pihu Sharaf,Lifestyle,30-12-2023,13582,Medium,Card Not Present,Uttar Pradesh,Visa,ICICI Bank,0,11,Groceries,Bangalore
+71327616,Mahika Shanker,Zomato,07-03-2024,23861,Low,Account Takeover,Tamil Nadu,Visa,Bank of Baroda,0,95,Apparel,Hyderabad
+35704861,Anay Hayre,Uber,17-02-2024,17243,High,Identity Theft,Uttar Pradesh,Mastercard,Bank of Baroda,0,80,Electronics,Jaipur
+39136871,Tejas Chandran,Zomato,01-07-2024,17618,Medium,Account Takeover,Uttar Pradesh,Rupay,Kotak Bank,0,84,Transportation,Lucknow
+32291394,Riya Ghosh,Zomato,08-12-2024,3223,Medium,Account Takeover,Karnataka,Rupay,Andhra Bank,0,12,Groceries,Kolkata
+11143488,Shanaya Sawhney,Reliance Digital,11-09-2024,295,Medium,Card Skimming,Telangana,Rupay,Axis Bank,1,35,Electronics,Ahmedabad
+64330946,Vihaan Rout,Lifestyle,16-03-2024,23311,Medium,Card Not Present,Gujarat,Rupay,Andhra Bank,0,57,Electronics,Hyderabad
+73362222,Purab Sachar,Amazon India,17-10-2024,21779,Low,Card Not Present,Uttar Pradesh,Visa,Axis Bank,0,57,Food Delivery,Ahmedabad
+19694755,Vaibhav Sinha,Myntra,14-10-2024,20721,Critical,Identity Theft,Tamil Nadu,Mastercard,SBI,0,20,Transportation,Chennai
+52490430,Sara Din,Swiggy,26-07-2024,17825,Low,Account Takeover,Delhi,Rupay,ICICI Bank,0,14,Groceries,Kolkata
+75587242,Darshit Ranganathan,Zomato,03-02-2024,6985,Critical,Card Skimming,Telangana,Amex,Axis Bank,0,50,Groceries,Mumbai
+18806538,Tara Mannan,Uber,24-03-2024,9203,Critical,Identity Theft,Karnataka,Visa,HDFC Bank,0,14,Transportation,Ahmedabad
+97151229,Nitya Ganesh,Flipkart,09-05-2024,2834,Medium,Account Takeover,Rajasthan,Visa,SBI,0,14,Apparel,Lucknow
+46529985,Shray Dubey,Lifestyle,02-10-2024,12740,Low,Phishing,Maharashtra,Amex,Bank of Baroda,0,16,Electronics,Chennai
+10160858,Kaira Kumar,Tata Cliq,21-11-2024,20057,Critical,Phishing,West Bengal,Amex,ICICI Bank,0,43,Food Delivery,Hyderabad
+48484987,Rati Date,Lifestyle,30-08-2024,19933,High,Account Takeover,Kerala,Amex,Andhra Bank,1,16,Transportation,Hyderabad
+20156336,Baiju Dubey,Uber,07-05-2024,17105,Medium,Phishing,Maharashtra,Visa,HDFC Bank,0,82,Groceries,Mumbai
