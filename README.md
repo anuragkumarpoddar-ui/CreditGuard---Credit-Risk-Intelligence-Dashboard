@@ -41,7 +41,6 @@ CreditGuard demonstrates how Power BI can transform credit card data into an int
 
 <img width="1522" height="858" alt="Screenshot 2026-10-13 130153" src="https://github.com/user-attachments/assets/4eef6ae2-eb89-4ad0-af28-397ee05207b9" />
 
-
 ## Project Author
 
 **Anurag Kumar Poddar**
